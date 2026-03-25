@@ -1,4 +1,7 @@
-[
+{
+  "version": 1
+"words": [
+  
   {
     "lesson_number": "Lesson 1",
     "lesson_name": "Meeting someone",
@@ -5709,4 +5712,6 @@
       }
     ]
   }
+]
+
 ]
