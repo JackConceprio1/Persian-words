@@ -1,0 +1,5712 @@
+[
+  {
+    "lesson_number": "Lesson 1",
+    "lesson_name": "Meeting someone",
+    "words": [
+      {
+        "english": "Hello",
+        "persian": "سلام",
+        "audio": "Hello.mp3",
+        "pronunciation": "salaam",
+        "breakdown": {
+          "sa": "like 'sa' in 'saw'",
+          "laam": "like 'lahm', with a soft 'a'"
+        }
+      },
+      {
+        "english": "Good morning",
+        "persian": "صبح به خیر",
+        "audio": "Goodmorning.mp3",
+        "pronunciation": "Sobh be kheyr",
+        "breakdown": {
+          "Sobh": "sounds like 'sob' (but the 'bh' is very soft)",
+          "be": "like 'beh'",
+          "kheyr": "like 'khair' where 'kh' is a throaty sound (similar to the 'ch' in the Scottish word loch)"
+        }
+      },
+      {
+        "english": "Good afternoon",
+        "persian": "عصر به خیر",
+        "audio": "Goodafternoon.mp3",
+        "pronunciation": "asr be kheyr",
+        "breakdown": {
+          "asr": "like 'asr', short and crisp",
+          "be": "like 'beh'",
+          "kheyr": "like 'khair', 'kh' is throaty"
+        }
+      },
+      {
+        "english": "Good evening",
+        "persian": "شب به خیر",
+        "audio": "Goodevening.mp3",
+        "pronunciation": "shab be kheyr",
+        "breakdown": {
+          "shab": "like 'shahb', soft 'a'",
+          "be": "like 'beh'",
+          "kheyr": "like 'khair', 'kh' is throaty"
+        }
+      },
+      {
+        "english": "Good night",
+        "persian": "شب خوش",
+        "audio": "Goodnight.mp3",
+        "pronunciation": "shab khosh",
+        "breakdown": {
+          "shab": "like 'shahb', soft 'a'",
+          "khosh": "like 'khosh', 'kh' is throaty, 'o' as in 'boss'"
+        }
+      },
+      {
+        "english": "What is your name?",
+        "persian": "نام شما چیست؟",
+        "audio": "Whatisyourname.mp3",
+        "pronunciation": "naam shomaa chist?",
+        "breakdown": {
+          "naam": "like 'naam', long 'a'",
+          "shomaa": "like 'sho-maa', 'o' as in 'so', long 'a' at the end",
+          "chist": "like 'cheest', short 'ee'"
+        }
+      },
+      {
+        "english": "My name is ___",
+        "persian": "اسمم ..... است",
+        "audio": "Mynameis.mp3",
+        "pronunciation": "esm-am ... ast",
+        "breakdown": {
+          "esm": "like 'esm', 'e' as in 'bed'",
+          "am": "like 'am', short and soft",
+          "ast": "like 'ast', 'a' as in 'cat'"
+        }
+      },
+      {
+        "english": "Sorry, I did not hear you",
+        "persian": "ببخشید، نشنیدم چی گفتید",
+        "audio": "SorryIdidnthearyou.mp3",
+        "pronunciation": "bebakhshid, nashn-idam chi goftid",
+        "breakdown": {
+          "bebakhshid": "like 'be-bakh-sheed', 'kh' is throaty",
+          "nashn-idam": "like 'na-shn-ee-dam', 'sh' as in 'shoe'",
+          "chi": "like 'chee'",
+          "goftid": "like 'goft-eed', short 'o', soft 'e'"
+        }
+      },
+      {
+        "english": "Where do you live?",
+        "persian": "کجا زندگی می کنی؟",
+        "audio": "Wheredoyoulive.mp3",
+        "pronunciation": "kojaa zendegi mikoni?",
+        "breakdown": {
+          "kojaa": "like 'ko-ja', soft 'o'",
+          "zendegi": "like 'zen-de-gi', short vowels",
+          "mikoni": "like 'mee-ko-nee', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "Where are you from?",
+        "persian": "اهل کجا هستید؟",
+        "audio": "Whereareyoufrom.mp3",
+        "pronunciation": "ahl-e kojaa hastid?",
+        "breakdown": {
+          "ahl-e": "like 'ahl-eh', short 'a'",
+          "kojaa": "like 'ko-ja', soft 'o'",
+          "hastid": "like 'has-teed', soft 'a'"
+        }
+      },
+      {
+        "english": "How are you?",
+        "persian": "حال شما چطور است؟",
+        "audio": "Howareyou.mp3",
+        "pronunciation": "haal-e shomaa chetor ast?",
+        "breakdown": {
+          "haal-e": "like 'haal-eh', long 'a'",
+          "shomaa": "like 'sho-maa', long 'a'",
+          "chetor": "like 'che-tor', 'ch' as in 'chess'",
+          "ast": "like 'ast', 'a' as in 'cat'"
+        }
+      },
+      {
+        "english": "Fine, thank you",
+        "persian": "خوبم، متشکر",
+        "audio": "Finethankyou.mp3",
+        "pronunciation": "khobam, moteshaker",
+        "breakdown": {
+          "khobam": "like 'khob-am', 'kh' throaty, short 'o'",
+          "moteshaker": "like 'mo-te-sha-ker', soft vowels, 'sh' as in 'shoe'"
+        }
+      },
+      {
+        "english": "And you?",
+        "persian": "و شما؟",
+        "audio": "Andyou.mp3",
+        "pronunciation": "va shomaa?",
+        "breakdown": {
+          "va": "like 'va', short 'a'",
+          "shomaa": "like 'sho-maa', long 'a'"
+        }
+      },
+      {
+        "english": "Nice to meet you",
+        "persian": "از ملاقات شما خوشوقتم",
+        "audio": "Nicetomeetyou.mp3",
+        "pronunciation": "az molaaghaat-e shomaa khoshvaghtam",
+        "breakdown": {
+          "az": "like 'az', short 'a'",
+          "molaaghaat-e": "like 'mo-laa-ghaat-eh', 'gh' is throaty, long 'a'",
+          "shomaa": "like 'sho-maa', long 'a'",
+          "khoshvaghtam": "like 'khosh-vaght-am', 'kh' throaty, 'o' as in 'boss'"
+        }
+      },
+      {
+        "english": "Nice to see you",
+        "persian": "خوشحالم تو رو می ببینم",
+        "audio": "Nicetoseeyou.mp3",
+        "pronunciation": "khosh-haalam to ro mibinam",
+        "breakdown": {
+          "khosh-haalam": "like 'khosh-haa-lam', 'kh' throaty, long 'a'",
+          "to": "like 'to', short 'o'",
+          "ro": "like 'ro', short 'o'",
+          "mibinam": "like 'mee-bee-nam', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "Have a nice day",
+        "persian": "روز خوبی داشته باشید",
+        "audio": "Haveaniceday.mp3",
+        "pronunciation": "rooz-e khoobi daashteh baashid",
+        "breakdown": {
+          "rooz-e": "like 'rooz-eh', long 'oo'",
+          "khoobi": "like 'khoo-bee', 'kh' throaty, long 'oo'",
+          "daashteh": "like 'daash-teh', long 'aa'",
+          "baashid": "like 'baa-shid', long 'aa'"
+        }
+      },
+      {
+        "english": "See you later",
+        "persian": "بعداً می بینمت",
+        "audio": "Seeyoulater.mp3",
+        "pronunciation": "ba'dan mibinamet",
+        "breakdown": {
+          "ba'dan": "like 'ba-dan', short 'a', soft 'd'",
+          "mibinamet": "like 'mee-bee-nam-et', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "See you tomorrow",
+        "persian": "فردا می بینمت",
+        "audio": "Seeyoutomorrow.mp3",
+        "pronunciation": "fardaa mibinamet",
+        "breakdown": {
+          "fardaa": "like 'far-daa', long 'aa'",
+          "mibinamet": "like 'mee-bee-nam-et', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "Goodbye",
+        "persian": "خداحافظ",
+        "audio": "Goodbye.mp3",
+        "pronunciation": "khodaa haafez",
+        "breakdown": {
+          "khodaa": "like 'kho-daa', 'kh' throaty, long 'aa'",
+          "haafez": "like 'haa-fez', long 'aa', 'e' as in 'bed'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 2",
+    "lesson_name": "Please and thank you",
+    "words": [
+      {
+        "english": "Please",
+        "persian": "لطفاً",
+        "audio": "Please.mp3",
+        "pronunciation": "lotfan",
+        "breakdown": {
+          "lot": "like 'lot', short 'o'",
+          "fan": "like 'faan', long 'a'"
+        }
+      },
+      {
+        "english": "Thank you",
+        "persian": "متشکر",
+        "audio": "Thankyou.mp3",
+        "pronunciation": "moteshaker",
+        "breakdown": {
+          "mo": "like 'mo', as in 'more'",
+          "te": "like 'te', short 'e'",
+          "sha": "like 'sha', long 'a'",
+          "ker": "like 'ker', soft 'e'"
+        }
+      },
+      {
+        "english": "Yes",
+        "persian": "بله",
+        "audio": "Yes.mp3",
+        "pronunciation": "bale",
+        "breakdown": {
+          "ba": "like 'ba', short 'a'",
+          "le": "like 'leh', short 'e'"
+        }
+      },
+      {
+        "english": "No",
+        "persian": "خیر",
+        "audio": "No.mp3",
+        "pronunciation": "kheyr",
+        "breakdown": {
+          "kheyr": "like 'khair', 'kh' is throaty, 'ey' as in 'air'"
+        }
+      },
+      {
+        "english": "How do you say?",
+        "persian": "شما چطور می گویید؟",
+        "audio": "Howdoyousay.mp3",
+        "pronunciation": "shomaa chetor miguyid?",
+        "breakdown": {
+          "shomaa": "like 'sho-maa', long 'a'",
+          "chetor": "like 'che-tor', 'ch' as in 'chess'",
+          "miguyid": "like 'mee-goo-yid', 'i' as in 'machine', 'g' soft"
+        }
+      },
+      {
+        "english": "Speak slowly",
+        "persian": "آرام صحبت کنید",
+        "audio": "Speakslowly.mp3",
+        "pronunciation": "aaraam sohbat konid",
+        "breakdown": {
+          "aaraam": "like 'aa-ram', long 'aa'",
+          "sohbat": "like 'soh-bat', short vowels, 'h' soft",
+          "konid": "like 'ko-neeyd', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "Repeat, please",
+        "persian": "تکرار کنید، لطفا",
+        "audio": "Repeatplease.mp3",
+        "pronunciation": "tekrar konid, lotfan",
+        "breakdown": {
+          "tekrar": "like 'te-krar', 'a' short, 'rr' rolled slightly",
+          "konid": "like 'ko-neeyd', 'i' as in 'machine'",
+          "lotfan": "like 'lot-faan', long 'a'"
+        }
+      },
+      {
+        "english": "Again",
+        "persian": "دوباره",
+        "audio": "Again.mp3",
+        "pronunciation": "dobaar-e",
+        "breakdown": {
+          "do": "like 'do', short 'o'",
+          "baar": "like 'baar', long 'a'",
+          "e": "like 'eh', short 'e'"
+        }
+      },
+      {
+        "english": "Word for word",
+        "persian": "کلمه به کلمه",
+        "audio": "Wordbyword.mp3",
+        "pronunciation": "kalameh be kalameh",
+        "breakdown": {
+          "ka": "like 'ka', short 'a'",
+          "la": "like 'la', short 'a'",
+          "meh": "like 'meh', short 'e'",
+          "be": "like 'beh'",
+          "ka": "like 'ka', short 'a'",
+          "la": "like 'la', short 'a'",
+          "meh": "like 'meh', short 'e'"
+        }
+      },
+      {
+        "english": "Slowly",
+        "persian": "به آرامی",
+        "audio": "Slowly.mp3",
+        "pronunciation": "be aaraami",
+        "breakdown": {
+          "be": "like 'beh'",
+          "aa": "like long 'aa', part of 'aaraami'",
+          "raami": "like 'ra-mee', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "What did you say?",
+        "persian": "چه گفتید؟",
+        "audio": "Whatdidyousay.mp3",
+        "pronunciation": "che goftid?",
+        "breakdown": {
+          "che": "like 'che', 'ch' as in 'chess'",
+          "goftid": "like 'goft-eed', 'o' short, 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "I don't understand",
+        "persian": "متوجه نمی شوم",
+        "audio": "Idontunderstand.mp3",
+        "pronunciation": "motavajjeh nemi shavam",
+        "breakdown": {
+          "mo": "like 'mo', as in 'more'",
+          "tavajjeh": "like 'ta-va-jjeh', 'j' soft",
+          "nemi": "like 'ne-mee', 'i' as in 'machine'",
+          "shavam": "like 'sha-vam', short 'a'"
+        }
+      },
+      {
+        "english": "Do you understand?",
+        "persian": "متوجه شدید؟",
+        "audio": "Doyouunderstand.mp3",
+        "pronunciation": "motavajjeh shodid?",
+        "breakdown": {
+          "mo": "like 'mo', as in 'more'",
+          "tavajjeh": "like 'ta-va-jjeh', 'j' soft",
+          "shodid": "like 'sho-deed', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "What does it mean?",
+        "persian": "به چه معنی است؟",
+        "audio": "Whatdoesitmean.mp3",
+        "pronunciation": "be che ma'ni ast?",
+        "breakdown": {
+          "be": "like 'beh'",
+          "che": "like 'che', 'ch' as in 'chess'",
+          "ma'ni": "like 'maa-nee', long 'aa', 'i' as in 'machine'",
+          "ast": "like 'ast', 'a' as in 'cat'"
+        }
+      },
+      {
+        "english": "I don’t know",
+        "persian": "نمی دانم",
+        "audio": "Idontknow.mp3",
+        "pronunciation": "nemi daanam",
+        "breakdown": {
+          "nemi": "like 'ne-mee', 'i' as in 'machine'",
+          "daanam": "like 'daa-nam', long 'aa'"
+        }
+      },
+      {
+        "english": "Do you speak English?",
+        "persian": "آیا شما انگلیسی صحبت می کنید؟",
+        "audio": "DoyouspeakEnglish.mp3",
+        "pronunciation": "aayaa shomaa englisi sohbat mikonid?",
+        "breakdown": {
+          "aayaa": "like 'aa-yaa', long 'aa'",
+          "shomaa": "like 'sho-maa', long 'a'",
+          "englisi": "like 'en-gli-si', 'i' short",
+          "sohbat": "like 'soh-bat', short vowels",
+          "mikonid": "like 'mee-ko-neyd', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "Yes, a little",
+        "persian": "بله، یک کمی",
+        "audio": "Yesalittle.mp3",
+        "pronunciation": "bale, yek kami",
+        "breakdown": {
+          "bale": "like 'ba-le', short vowels",
+          "yek": "like 'yek', short 'e'",
+          "kami": "like 'kaa-mee', long 'a', 'i' as in 'machine'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 3",
+    "lesson_name": "Celebrations and parties",
+    "words": [
+      {
+        "english": "Birthday",
+        "persian": "تولد",
+        "audio": "Birthday.mp3",
+        "pronunciation": "tavallod",
+        "breakdown": {
+          "ta": "like 'ta', short 'a'",
+          "val": "like 'val', 'a' as in 'cat'",
+          "lod": "like 'lod', soft 'o'"
+        }
+      },
+      {
+        "english": "Anniversary",
+        "persian": "سالگرد",
+        "audio": "Anniversary.mp3",
+        "pronunciation": "saalgard",
+        "breakdown": {
+          "saal": "like 'saal', long 'aa'",
+          "gard": "like 'gard', 'a' as in 'car'"
+        }
+      },
+      {
+        "english": "Holiday",
+        "persian": "تعطیلات",
+        "audio": "Holiday.mp3",
+        "pronunciation": "ta'tilat",
+        "breakdown": {
+          "ta": "like 'ta', short 'a'",
+          "ti": "like 'tee', 'i' as in 'machine'",
+          "lat": "like 'laat', long 'a'"
+        }
+      },
+      {
+        "english": "Funeral",
+        "persian": "مراسم خاکسپاری",
+        "audio": "Funeral.mp3",
+        "pronunciation": "maraasem khaak-sepaari",
+        "breakdown": {
+          "maraasem": "like 'ma-raa-sem', long 'aa'",
+          "khaak": "like 'khaak', 'kh' throaty, long 'aa'",
+          "sepaari": "like 'se-paa-ree', long 'aa', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "Graduation",
+        "persian": "فارغ التحصیلی",
+        "audio": "Graduation.mp3",
+        "pronunciation": "faaregh-ot-tahsili",
+        "breakdown": {
+          "faa": "like 'faa', long 'aa'",
+          "regh": "like 'regh', 'gh' deep in throat",
+          "tahsili": "like 'tah-see-lee', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "Wedding",
+        "persian": "عروسی",
+        "audio": "Wedding.mp3",
+        "pronunciation": "aroosi",
+        "breakdown": {
+          "a": "like short 'a'",
+          "roo": "like 'roo', long 'oo'",
+          "si": "like 'see'"
+        }
+      },
+      {
+        "english": "Happy New Year",
+        "persian": "سال جدید مبارک",
+        "audio": "HappyNewYear.mp3",
+        "pronunciation": "saal-e jadid mobaarak",
+        "breakdown": {
+          "saal-e": "like 'saal-eh', long 'aa'",
+          "jadid": "like 'ja-deed', long 'ee'",
+          "mobaarak": "like 'mo-baa-rak', long 'aa'"
+        }
+      },
+      {
+        "english": "Happy birthday",
+        "persian": "تولدت مبارک",
+        "audio": "Happybirthday.mp3",
+        "pronunciation": "tavalodet mobaarak",
+        "breakdown": {
+          "tavalodet": "like 'ta-va-lo-det', short vowels",
+          "mobaarak": "like 'mo-baa-rak', long 'aa'"
+        }
+      },
+      {
+        "english": "Congratulations",
+        "persian": "تبریک",
+        "audio": "Congratulations.mp3",
+        "pronunciation": "tabrik",
+        "breakdown": {
+          "tab": "like 'tab', short 'a'",
+          "rik": "like 'reek', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "Good luck",
+        "persian": "موفق باشید",
+        "audio": "Goodluck.mp3",
+        "pronunciation": "movafagh baashid",
+        "breakdown": {
+          "movafagh": "like 'mo-va-fagh', 'gh' deep in throat",
+          "baashid": "like 'baa-sheed', long 'aa'"
+        }
+      },
+      {
+        "english": "Gift",
+        "persian": "هدیه",
+        "audio": "Gift.mp3",
+        "pronunciation": "hadiye",
+        "breakdown": {
+          "ha": "like 'ha', short 'a'",
+          "di": "like 'dee'",
+          "ye": "like 'yeh'"
+        }
+      },
+      {
+        "english": "Party",
+        "persian": "مهمانی",
+        "audio": "Party.mp3",
+        "pronunciation": "mehmani",
+        "breakdown": {
+          "meh": "like 'meh', short 'e'",
+          "ma": "like 'maa', long 'aa'",
+          "ni": "like 'nee'"
+        }
+      },
+      {
+        "english": "Birthday card",
+        "persian": "کارت تولد",
+        "audio": "Birthdaycard.mp3",
+        "pronunciation": "kaart-e tavallod",
+        "breakdown": {
+          "kaart-e": "like 'kaart-eh', long 'aa'",
+          "tavallod": "like 'ta-val-lod', short 'o'"
+        }
+      },
+      {
+        "english": "Celebration",
+        "persian": "جشن",
+        "audio": "Celebration.mp3",
+        "pronunciation": "jashn",
+        "breakdown": {
+          "jashn": "like 'jashn', 'sh' as in 'shoe'"
+        }
+      },
+      {
+        "english": "Music",
+        "persian": "موسیقی",
+        "audio": "Music.mp3",
+        "pronunciation": "moosighi",
+        "breakdown": {
+          "moo": "like 'moo', long 'oo'",
+          "si": "like 'see'",
+          "ghi": "like 'ghee', 'gh' deep in throat"
+        }
+      },
+      {
+        "english": "Do you want to dance?",
+        "persian": "مایلید برقصیم؟",
+        "audio": "Wouldyouliketodance.mp3",
+        "pronunciation": "maayelid beraghsim?",
+        "breakdown": {
+          "maayelid": "like 'maa-ye-lid', long 'aa'",
+          "beraghsim": "like 'be-ragh-seem', 'gh' deep in throat"
+        }
+      },
+      {
+        "english": "Yes, I want to dance",
+        "persian": "بله، میخواهم برقصم",
+        "audio": "YesIwanttodance.mp3",
+        "pronunciation": "bale mikhaaham beraghsam",
+        "breakdown": {
+          "bale": "like 'ba-le'",
+          "mikhaaham": "like 'mee-khaa-ham', 'kh' throaty, long 'aa'",
+          "beraghsam": "like 'be-ragh-sam', 'gh' deep in throat"
+        }
+      },
+      {
+        "english": "I don’t want to dance",
+        "persian": "نمی خواهم برقصم",
+        "audio": "Idontwanttodance.mp3",
+        "pronunciation": "nemi khaaham beraghsam",
+        "breakdown": {
+          "nemi": "like 'ne-mee', 'i' as in 'machine'",
+          "khaaham": "like 'khaa-ham', 'kh' throaty",
+          "beraghsam": "like 'be-ragh-sam', 'gh' deep in throat"
+        }
+      },
+      {
+        "english": "Will you marry me?",
+        "persian": "با من ازدواج می کنی؟",
+        "audio": "Willyoumarryme.mp3",
+        "pronunciation": "baa man ezdevaj mikoni?",
+        "breakdown": {
+          "baa": "like 'baa', long 'aa'",
+          "man": "like 'man', short 'a'",
+          "ezdevaj": "like 'ez-de-vaj', 'j' soft",
+          "mikoni": "like 'mee-ko-nee', 'i' as in 'machine'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 4",
+    "lesson_name": "Peace on earth",
+    "words": [
+      {
+        "english": "Love",
+        "persian": "عشق",
+        "audio": "Love.mp3",
+        "pronunciation": "eshgh",
+        "breakdown": {
+          "esh": "like 'esh', 'e' as in 'bed'",
+          "gh": "a deep throaty sound made at the back of the throat"
+        }
+      },
+      {
+        "english": "Peace",
+        "persian": "صلح",
+        "audio": "Peace.mp3",
+        "pronunciation": "solh",
+        "breakdown": {
+          "sol": "like 'sol', 'o' as in 'soft'",
+          "h": "a soft breathy 'h' at the end"
+        }
+      },
+      {
+        "english": "Trust",
+        "persian": "اعتماد",
+        "audio": "Trust.mp3",
+        "pronunciation": "etemad",
+        "breakdown": {
+          "e": "like 'e' in 'bed'",
+          "te": "like 'te', short 'e'",
+          "mad": "like 'maad', long 'aa'"
+        }
+      },
+      {
+        "english": "Respect",
+        "persian": "احترام",
+        "audio": "Respect.mp3",
+        "pronunciation": "ehteraam",
+        "breakdown": {
+          "eh": "like 'eh' in 'bet'",
+          "te": "like 'te', short 'e'",
+          "raam": "like 'raam', long 'aa'"
+        }
+      },
+      {
+        "english": "Friendship",
+        "persian": "دوستی",
+        "audio": "Friendship.mp3",
+        "pronunciation": "doosti",
+        "breakdown": {
+          "doo": "like 'doo', long 'oo'",
+          "sti": "like 'stee', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "It is a beautiful day",
+        "persian": "روز زیبایی است",
+        "audio": "Itisabeautifulday.mp3",
+        "pronunciation": "rooz-e zibaa ast",
+        "breakdown": {
+          "rooz": "like 'rooz', long 'oo'",
+          "zibaa": "like 'zee-baa', long 'aa'",
+          "ast": "like 'ast', short 'a'"
+        }
+      },
+      {
+        "english": "Welcome",
+        "persian": "خوش آمدید",
+        "audio": "Welcome.mp3",
+        "pronunciation": "khosh aamadi(d)",
+        "breakdown": {
+          "khosh": "like 'khosh', 'kh' is a throaty sound",
+          "aa": "like long 'aa'",
+          "madid": "like 'ma-deed', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "The sky is beautiful",
+        "persian": "آسمان زیبا است",
+        "audio": "Theskyisbeautiful.mp3",
+        "pronunciation": "aasemaan zibaa ast",
+        "breakdown": {
+          "aa": "long 'aa'",
+          "semaan": "like 'se-maan', long 'aa'",
+          "zibaa": "like 'zee-baa'",
+          "ast": "like 'ast'"
+        }
+      },
+      {
+        "english": "There are so many stars",
+        "persian": "ستاره های زیادی وجود دارد",
+        "audio": "Therearesomanystars.mp3",
+        "pronunciation": "setaare-haaye ziyaadi vojood daarad",
+        "breakdown": {
+          "setaare": "like 'se-taa-re', long 'aa'",
+          "haaye": "like 'haa-ye'",
+          "ziyaadi": "like 'zee-yaa-dee'",
+          "vojood": "like 'vo-jood', long 'oo'",
+          "daarad": "like 'daa-rad', long 'aa'"
+        }
+      },
+      {
+        "english": "It is a full moon",
+        "persian": "این یک ماه کامل است",
+        "audio": "Itisafullmoon.mp3",
+        "pronunciation": "in yek maah kaamel ast",
+        "breakdown": {
+          "in": "like 'een'",
+          "yek": "like 'yek', short 'e'",
+          "maah": "like 'maah', long 'aa'",
+          "kaamel": "like 'kaa-mel'",
+          "ast": "like 'ast'"
+        }
+      },
+      {
+        "english": "I love the sun",
+        "persian": "من خورشید را دوست دارم",
+        "audio": "Ilovethesun.mp3",
+        "pronunciation": "man khorshid raa doost daaram",
+        "breakdown": {
+          "man": "like 'man'",
+          "khorshid": "like 'khor-sheed', 'kh' throaty",
+          "raa": "long 'aa'",
+          "doost": "like 'doost', long 'oo'",
+          "daaram": "like 'daa-ram'"
+        }
+      },
+      {
+        "english": "Excuse me (when bumping into someone)",
+        "persian": "ببخشید",
+        "audio": "Excusemewhenbumpingintosomeone.mp3",
+        "pronunciation": "bebakhshid",
+        "breakdown": {
+          "be": "like 'beh'",
+          "bakh": "like 'bakh', 'kh' throaty",
+          "shid": "like 'sheed', 'i' as in 'machine'"
+        }
+      },
+      {
+        "english": "May I help you?",
+        "persian": "میتوانم به شما کمک کنم؟",
+        "audio": "MayIhelpyou.mp3",
+        "pronunciation": "mitavaanam be shomaa komak konam?",
+        "breakdown": {
+          "mitavaanam": "like 'mee-ta-vaa-nam'",
+          "be": "like 'beh'",
+          "shomaa": "like 'sho-maa'",
+          "komak": "like 'ko-mak'",
+          "konam": "like 'ko-nam'"
+        }
+      },
+      {
+        "english": "Do you have a question?",
+        "persian": "سوالی دارید؟",
+        "audio": "Doyouhaveaquestion.mp3",
+        "pronunciation": "so-aali daarid?",
+        "breakdown": {
+          "so": "like 'so'",
+          "aali": "like 'aa-lee'",
+          "daarid": "like 'daa-reed'"
+        }
+      },
+      {
+        "english": "Peace on Earth",
+        "persian": "صلح بر روی زمین",
+        "audio": "Peaceonearth.mp3",
+        "pronunciation": "solh bar rooye zamin",
+        "breakdown": {
+          "solh": "like 'solh', soft 'h'",
+          "bar": "like 'bar'",
+          "rooye": "like 'roo-ye'",
+          "zamin": "like 'za-meen'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 5",
+    "lesson_name": "Feelings and emotions",
+    "words": [
+      {
+        "english": "Happy",
+        "persian": "خوشحال",
+        "audio": "Happy.mp3",
+        "pronunciation": "khoshhaal",
+        "breakdown": {
+          "khosh": "like 'khosh', 'kh' is a throaty sound",
+          "haal": "like 'haal', long 'aa'"
+        }
+      },
+      {
+        "english": "Sad",
+        "persian": "غمگین",
+        "audio": "Sad.mp3",
+        "pronunciation": "ghamgin",
+        "breakdown": {
+          "gham": "like 'gham', deep 'gh' from the throat",
+          "gin": "like 'geen'"
+        }
+      },
+      {
+        "english": "Angry",
+        "persian": "عصبانی",
+        "audio": "Angry.mp3",
+        "pronunciation": "asabaani",
+        "breakdown": {
+          "asa": "like 'a-sa'",
+          "baa": "long 'aa'",
+          "ni": "like 'nee'"
+        }
+      },
+      {
+        "english": "Afraid",
+        "persian": "ترسیده",
+        "audio": "Afraid.mp3",
+        "pronunciation": "tarsideh",
+        "breakdown": {
+          "tar": "like 'tar'",
+          "si": "like 'see'",
+          "deh": "like 'deh'"
+        }
+      },
+      {
+        "english": "Joy",
+        "persian": "شاد",
+        "audio": "Joy.mp3",
+        "pronunciation": "shaad",
+        "breakdown": {
+          "shaad": "like 'shaad', long 'aa'"
+        }
+      },
+      {
+        "english": "Surprised",
+        "persian": "متعجب",
+        "audio": "Surprised.mp3",
+        "pronunciation": "moteajeb",
+        "breakdown": {
+          "mo": "like 'mo'",
+          "te": "like 'te'",
+          "ajeb": "like 'a-jeb'"
+        }
+      },
+      {
+        "english": "Calm",
+        "persian": "آرام",
+        "audio": "Calm.mp3",
+        "pronunciation": "aaraam",
+        "breakdown": {
+          "aa": "long 'aa'",
+          "raam": "like 'raam'"
+        }
+      },
+      {
+        "english": "Alive",
+        "persian": "زنده",
+        "audio": "Alive.mp3",
+        "pronunciation": "zendeh",
+        "breakdown": {
+          "zen": "like 'zen'",
+          "deh": "like 'deh'"
+        }
+      },
+      {
+        "english": "Dead",
+        "persian": "مرده",
+        "audio": "Dead.mp3",
+        "pronunciation": "mordeh",
+        "breakdown": {
+          "mor": "like 'mor'",
+          "deh": "like 'deh'"
+        }
+      },
+      {
+        "english": "Alone",
+        "persian": "تنها",
+        "audio": "Alone.mp3",
+        "pronunciation": "tanhaa",
+        "breakdown": {
+          "tan": "like 'tan'",
+          "haa": "long 'aa'"
+        }
+      },
+      {
+        "english": "Together",
+        "persian": "با هم",
+        "audio": "Together.mp3",
+        "pronunciation": "baa ham",
+        "breakdown": {
+          "baa": "long 'aa'",
+          "ham": "like 'ham'"
+        }
+      },
+      {
+        "english": "Bored",
+        "persian": "بی حوصله",
+        "audio": "Bored.mp3",
+        "pronunciation": "bi hosaleh",
+        "breakdown": {
+          "bi": "like 'bee'",
+          "ho": "like 'ho'",
+          "saleh": "like 'sa-leh'"
+        }
+      },
+      {
+        "english": "Easy",
+        "persian": "راحت",
+        "audio": "Easy.mp3",
+        "pronunciation": "raahat",
+        "breakdown": {
+          "raa": "long 'aa'",
+          "hat": "like 'hat'"
+        }
+      },
+      {
+        "english": "Difficult",
+        "persian": "مشکل",
+        "audio": "Difficult.mp3",
+        "pronunciation": "moshkel",
+        "breakdown": {
+          "mosh": "like 'mosh'",
+          "kel": "like 'kel'"
+        }
+      },
+      {
+        "english": "Bad",
+        "persian": "بد",
+        "audio": "Bad.mp3",
+        "pronunciation": "bad",
+        "breakdown": {
+          "bad": "like 'bad'"
+        }
+      },
+      {
+        "english": "Good",
+        "persian": "خوب",
+        "audio": "Good.mp3",
+        "pronunciation": "khoob",
+        "breakdown": {
+          "khoo": "long 'oo', 'kh' throaty",
+          "b": "soft ending"
+        }
+      },
+      {
+        "english": "I am sorry",
+        "persian": "متاسفم",
+        "audio": "Iamsorry.mp3",
+        "pronunciation": "moteasefam",
+        "breakdown": {
+          "mo": "like 'mo'",
+          "teasef": "like 'te-a-sef'",
+          "am": "like 'am'"
+        }
+      },
+      {
+        "english": "Don't worry",
+        "persian": "نگران نباش",
+        "audio": "Dontworry.mp3",
+        "pronunciation": "negaraan nabaash",
+        "breakdown": {
+          "nega": "like 'ne-ga'",
+          "raan": "long 'aa'",
+          "nabaash": "like 'na-baash'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 6",
+    "lesson_name": "Days of the week",
+    "words": [
+      {
+        "english": "The days of the week",
+        "persian": "روزهای هفته",
+        "audio": "Thedaysoftheweek.mp3",
+        "pronunciation": "roozhaaye hafteh",
+        "breakdown": {
+          "rooz": "like 'rooz', long 'oo'",
+          "haaye": "haa-ye",
+          "hafteh": "haf-teh"
+        }
+      },
+      {
+        "english": "Monday",
+        "persian": "دوشنبه",
+        "audio": "Monday.mp3",
+        "pronunciation": "doshanbeh",
+        "breakdown": {
+          "do": "like 'do'",
+          "shan": "like 'shan'",
+          "beh": "like 'beh'"
+        }
+      },
+      {
+        "english": "Tuesday",
+        "persian": "سه شنبه",
+        "audio": "Tuesday.mp3",
+        "pronunciation": "seh shanbeh",
+        "breakdown": {
+          "seh": "like 'seh'",
+          "shan": "like 'shan'",
+          "beh": "like 'beh'"
+        }
+      },
+      {
+        "english": "Wednesday",
+        "persian": "چهارشنبه",
+        "audio": "Wednesday.mp3",
+        "pronunciation": "chahaarshanbeh",
+        "breakdown": {
+          "cha": "like 'cha'",
+          "haar": "long 'aa'",
+          "shan": "like 'shan'",
+          "beh": "like 'beh'"
+        }
+      },
+      {
+        "english": "Thursday",
+        "persian": "پنج شنبه",
+        "audio": "Thursday.mp3",
+        "pronunciation": "panj shanbeh",
+        "breakdown": {
+          "panj": "like 'panj'",
+          "shan": "like 'shan'",
+          "beh": "like 'beh'"
+        }
+      },
+      {
+        "english": "Friday",
+        "persian": "جمعه",
+        "audio": "Friday.mp3",
+        "pronunciation": "jomeh",
+        "breakdown": {
+          "jo": "like 'jo'",
+          "meh": "like 'meh'"
+        }
+      },
+      {
+        "english": "Saturday",
+        "persian": "شنبه",
+        "audio": "Saturday.mp3",
+        "pronunciation": "shanbeh",
+        "breakdown": {
+          "shan": "like 'shan'",
+          "beh": "like 'beh'"
+        }
+      },
+      {
+        "english": "Sunday",
+        "persian": "یکشنبه",
+        "audio": "Sunday.mp3",
+        "pronunciation": "yekshanbeh",
+        "breakdown": {
+          "yek": "like 'yek'",
+          "shan": "like 'shan'",
+          "beh": "like 'beh'"
+        }
+      },
+      {
+        "english": "Day",
+        "persian": "روز",
+        "audio": "Day.mp3",
+        "pronunciation": "rooz",
+        "breakdown": {
+          "rooz": "long 'oo' sound"
+        }
+      },
+      {
+        "english": "Week",
+        "persian": "هفته",
+        "audio": "Week.mp3",
+        "pronunciation": "hafteh",
+        "breakdown": {
+          "haf": "like 'haf'",
+          "teh": "like 'teh'"
+        }
+      },
+      {
+        "english": "Weekend",
+        "persian": "آخر هفته",
+        "audio": "Weekend.mp3",
+        "pronunciation": "aakhar hafteh",
+        "breakdown": {
+          "aa": "long 'aa'",
+          "khar": "like 'khar'",
+          "hafteh": "haf-teh"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 7",
+    "lesson_name": "Months of the year",
+    "words": [
+      {
+        "english": "The months of the year",
+        "persian": "ماه های سال",
+        "audio": "Themonthsoftheyear.mp3",
+        "pronunciation": "maah haaye saal",
+        "breakdown": {
+          "maah": "long 'aa'",
+          "haaye": "haa-ye",
+          "saal": "long 'aa'"
+        }
+      },
+      {
+        "english": "January",
+        "persian": "ژانویه",
+        "audio": "January.mp3",
+        "pronunciation": "zhaanuyeh",
+        "breakdown": {
+          "zhaa": "soft 'zh' like in 'measure'",
+          "nu": "like 'noo'",
+          "yeh": "like 'yeh'"
+        }
+      },
+      {
+        "english": "February",
+        "persian": "فوریه",
+        "audio": "February.mp3",
+        "pronunciation": "fooriyeh",
+        "breakdown": {
+          "foo": "long 'oo'",
+          "ri": "like 'ree'",
+          "yeh": "like 'yeh'"
+        }
+      },
+      {
+        "english": "March",
+        "persian": "مارس",
+        "audio": "March.mp3",
+        "pronunciation": "maars",
+        "breakdown": {
+          "maar": "long 'aa'",
+          "s": "soft ending"
+        }
+      },
+      {
+        "english": "April",
+        "persian": "آوریل",
+        "audio": "April.mp3",
+        "pronunciation": "aavril",
+        "breakdown": {
+          "aa": "long 'aa'",
+          "vri": "like 'vree'",
+          "l": "soft ending"
+        }
+      },
+      {
+        "english": "May",
+        "persian": "مه",
+        "audio": "May.mp3",
+        "pronunciation": "meh",
+        "breakdown": {
+          "meh": "like 'meh'"
+        }
+      },
+      {
+        "english": "June",
+        "persian": "ژوئن",
+        "audio": "June.mp3",
+        "pronunciation": "zhoo-en",
+        "breakdown": {
+          "zhoo": "like 'zhoo', long 'oo'",
+          "en": "like 'en'"
+        }
+      },
+      {
+        "english": "July",
+        "persian": "ژوئیه",
+        "audio": "July.mp3",
+        "pronunciation": "zhoo-yee-eh",
+        "breakdown": {
+          "zhoo": "long 'oo'",
+          "yee": "like 'yee'",
+          "eh": "soft ending"
+        }
+      },
+      {
+        "english": "August",
+        "persian": "اوت",
+        "audio": "August.mp3",
+        "pronunciation": "oot",
+        "breakdown": {
+          "oot": "long 'oo'"
+        }
+      },
+      {
+        "english": "September",
+        "persian": "سپتامبر",
+        "audio": "September.mp3",
+        "pronunciation": "septambr",
+        "breakdown": {
+          "sep": "like 'sep'",
+          "tam": "like 'tam'",
+          "br": "soft 'br'"
+        }
+      },
+      {
+        "english": "October",
+        "persian": "اکتبر",
+        "audio": "October.mp3",
+        "pronunciation": "oktobr",
+        "breakdown": {
+          "ok": "like 'ock'",
+          "to": "like 'to'",
+          "br": "soft 'br'"
+        }
+      },
+      {
+        "english": "November",
+        "persian": "نوامبر",
+        "audio": "November.mp3",
+        "pronunciation": "navaambr",
+        "breakdown": {
+          "na": "like 'na'",
+          "vaam": "long 'aa'",
+          "br": "soft 'br'"
+        }
+      },
+      {
+        "english": "December",
+        "persian": "دسامبر",
+        "audio": "December.mp3",
+        "pronunciation": "desambr",
+        "breakdown": {
+          "de": "like 'de'",
+          "sam": "like 'sam'",
+          "br": "soft 'br'"
+        }
+      },
+      {
+        "english": "Month",
+        "persian": "ماه",
+        "audio": "Month.mp3",
+        "pronunciation": "maah",
+        "breakdown": {
+          "maah": "long 'aa'"
+        }
+      },
+      {
+        "english": "Year",
+        "persian": "سال",
+        "audio": "Year.mp3",
+        "pronunciation": "saal",
+        "breakdown": {
+          "saal": "long 'aa'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 8",
+    "lesson_name": "Numbers 1 through 10",
+    "words": [
+      {
+        "english": "Numbers",
+        "persian": "اعداد",
+        "audio": "Numbers.mp3",
+        "pronunciation": "aadaad",
+        "breakdown": {
+          "aa": "long 'aa'",
+          "daad": "like 'daad'"
+        }
+      },
+      {
+        "english": "1",
+        "persian": "یک",
+        "audio": "1.mp3",
+        "pronunciation": "yek",
+        "breakdown": {
+          "yek": "like 'yek'"
+        }
+      },
+      {
+        "english": "2",
+        "persian": "دو",
+        "audio": "2.mp3",
+        "pronunciation": "do",
+        "breakdown": {
+          "do": "like 'do'"
+        }
+      },
+      {
+        "english": "3",
+        "persian": "سه",
+        "audio": "3.mp3",
+        "pronunciation": "seh",
+        "breakdown": {
+          "seh": "like 'seh'"
+        }
+      },
+      {
+        "english": "4",
+        "persian": "چهار",
+        "audio": "4.mp3",
+        "pronunciation": "chahaar",
+        "breakdown": {
+          "cha": "like 'cha'",
+          "haar": "long 'aa'"
+        }
+      },
+      {
+        "english": "5",
+        "persian": "پنج",
+        "audio": "5.mp3",
+        "pronunciation": "panj",
+        "breakdown": {
+          "pan": "like 'pan'",
+          "j": "soft 'j'"
+        }
+      },
+      {
+        "english": "6",
+        "persian": "شش",
+        "audio": "6.mp3",
+        "pronunciation": "shesh",
+        "breakdown": {
+          "shesh": "like 'shesh'"
+        }
+      },
+      {
+        "english": "7",
+        "persian": "هفت",
+        "audio": "7.mp3",
+        "pronunciation": "haft",
+        "breakdown": {
+          "haft": "like 'haft'"
+        }
+      },
+      {
+        "english": "8",
+        "persian": "هشت",
+        "audio": "8.mp3",
+        "pronunciation": "hasht",
+        "breakdown": {
+          "hash": "like 'hash'",
+          "t": "soft ending"
+        }
+      },
+      {
+        "english": "9",
+        "persian": "نه",
+        "audio": "9.mp3",
+        "pronunciation": "noh",
+        "breakdown": {
+          "noh": "like 'noh'"
+        }
+      },
+      {
+        "english": "10",
+        "persian": "ده",
+        "audio": "10.mp3",
+        "pronunciation": "dah",
+        "breakdown": {
+          "dah": "like 'dah'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 9",
+    "lesson_name": "Numbers 11 through 20",
+    "words": [
+      {
+        "english": "11",
+        "persian": "یازده",
+        "audio": "11.mp3",
+        "pronunciation": "yaazdah",
+        "breakdown": {
+          "yaaz": "long 'aa'",
+          "dah": "like 'dah'"
+        }
+      },
+      {
+        "english": "12",
+        "persian": "دوازده",
+        "audio": "12.mp3",
+        "pronunciation": "davaazdah",
+        "breakdown": {
+          "da": "like 'da'",
+          "vaaz": "long 'aa'",
+          "dah": "like 'dah'"
+        }
+      },
+      {
+        "english": "13",
+        "persian": "سیزده",
+        "audio": "13.mp3",
+        "pronunciation": "sizdah",
+        "breakdown": {
+          "siz": "like 'seez'",
+          "dah": "like 'dah'"
+        }
+      },
+      {
+        "english": "14",
+        "persian": "چهارده",
+        "audio": "14.mp3",
+        "pronunciation": "chahaardah",
+        "breakdown": {
+          "cha": "like 'cha'",
+          "haar": "long 'aa'",
+          "dah": "like 'dah'"
+        }
+      },
+      {
+        "english": "15",
+        "persian": "پانزده",
+        "audio": "15.mp3",
+        "pronunciation": "paanzdah",
+        "breakdown": {
+          "paan": "long 'aa'",
+          "zdah": "like 'zdah'"
+        }
+      },
+      {
+        "english": "16",
+        "persian": "شانزده",
+        "audio": "16.mp3",
+        "pronunciation": "shaanzdah",
+        "breakdown": {
+          "shaan": "long 'aa'",
+          "zdah": "like 'zdah'"
+        }
+      },
+      {
+        "english": "17",
+        "persian": "هفده",
+        "audio": "17.mp3",
+        "pronunciation": "hafdah",
+        "breakdown": {
+          "haf": "like 'haf'",
+          "dah": "like 'dah'"
+        }
+      },
+      {
+        "english": "18",
+        "persian": "هجده",
+        "audio": "18.mp3",
+        "pronunciation": "hejdah",
+        "breakdown": {
+          "hej": "like 'hej'",
+          "dah": "like 'dah'"
+        }
+      },
+      {
+        "english": "19",
+        "persian": "نوزده",
+        "audio": "19.mp3",
+        "pronunciation": "noozdah",
+        "breakdown": {
+          "nooz": "long 'oo'",
+          "dah": "like 'dah'"
+        }
+      },
+      {
+        "english": "20",
+        "persian": "بیست",
+        "audio": "20.mp3",
+        "pronunciation": "bist",
+        "breakdown": {
+          "bis": "like 'bees'",
+          "t": "soft ending"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 10",
+    "lesson_name": "Numbers 21 through 30",
+    "words": [
+      {
+        "english": "21",
+        "persian": "بیست و یک",
+        "audio": "21.mp3",
+        "pronunciation": "bist o yek",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "short 'o' meaning 'and'",
+          "yek": "like 'yek'"
+        }
+      },
+      {
+        "english": "22",
+        "persian": "بیست و دو",
+        "audio": "22.mp3",
+        "pronunciation": "bist o do",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "means 'and'",
+          "do": "like 'do'"
+        }
+      },
+      {
+        "english": "23",
+        "persian": "بیست و سه",
+        "audio": "23.mp3",
+        "pronunciation": "bist o seh",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "means 'and'",
+          "seh": "like 'seh'"
+        }
+      },
+      {
+        "english": "24",
+        "persian": "بیست و چهار",
+        "audio": "24.mp3",
+        "pronunciation": "bist o chahaar",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "means 'and'",
+          "chahaar": "long 'aa'"
+        }
+      },
+      {
+        "english": "25",
+        "persian": "بیست و پنج",
+        "audio": "25.mp3",
+        "pronunciation": "bist o panj",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "means 'and'",
+          "panj": "like 'panj'"
+        }
+      },
+      {
+        "english": "26",
+        "persian": "بیست و شش",
+        "audio": "26.mp3",
+        "pronunciation": "bist o shesh",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "means 'and'",
+          "shesh": "like 'shesh'"
+        }
+      },
+      {
+        "english": "27",
+        "persian": "بیست و هفت",
+        "audio": "27.mp3",
+        "pronunciation": "bist o haft",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "means 'and'",
+          "haft": "like 'haft'"
+        }
+      },
+      {
+        "english": "28",
+        "persian": "بیست و هشت",
+        "audio": "28.mp3",
+        "pronunciation": "bist o hasht",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "means 'and'",
+          "hasht": "like 'hasht'"
+        }
+      },
+      {
+        "english": "29",
+        "persian": "بیست و نه",
+        "audio": "29.mp3",
+        "pronunciation": "bist o noh",
+        "breakdown": {
+          "bist": "like 'beest'",
+          "o": "means 'and'",
+          "noh": "like 'noh'"
+        }
+      },
+      {
+        "english": "30",
+        "persian": "سی",
+        "audio": "30.mp3",
+        "pronunciation": "si",
+        "breakdown": {
+          "si": "like 'see'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 11",
+    "lesson_name": "Numbers 10 through 100",
+    "words": [
+      {
+        "english": "10",
+        "persian": "ده",
+        "audio": "10.mp3",
+        "pronunciation": "dah",
+        "breakdown": { "dah": "like 'dah'" }
+      },
+      {
+        "english": "20",
+        "persian": "بیست",
+        "audio": "20.mp3",
+        "pronunciation": "bist",
+        "breakdown": { "bis": "like 'bees'", "t": "soft ending" }
+      },
+      {
+        "english": "30",
+        "persian": "سی",
+        "audio": "30.mp3",
+        "pronunciation": "si",
+        "breakdown": { "si": "like 'see'" }
+      },
+      {
+        "english": "40",
+        "persian": "چهل",
+        "audio": "40.mp3",
+        "pronunciation": "chehel",
+        "breakdown": { "che": "like 'che'", "hel": "like 'hel'" }
+      },
+      {
+        "english": "50",
+        "persian": "پنجاه",
+        "audio": "50.mp3",
+        "pronunciation": "panjaah",
+        "breakdown": { "panj": "like 'panj'", "aah": "long 'aa'" }
+      },
+      {
+        "english": "60",
+        "persian": "شصت",
+        "audio": "60.mp3",
+        "pronunciation": "shast",
+        "breakdown": { "shas": "like 'shas'", "t": "soft ending" }
+      },
+      {
+        "english": "70",
+        "persian": "هفتاد",
+        "audio": "70.mp3",
+        "pronunciation": "haftaad",
+        "breakdown": { "haft": "like 'haft'", "aad": "long 'aa'" }
+      },
+      {
+        "english": "80",
+        "persian": "هشتاد",
+        "audio": "80.mp3",
+        "pronunciation": "hashtaad",
+        "breakdown": { "hasht": "like 'hasht'", "aad": "long 'aa'" }
+      },
+      {
+        "english": "90",
+        "persian": "نود",
+        "audio": "90.mp3",
+        "pronunciation": "navad",
+        "breakdown": { "na": "like 'na'", "vad": "like 'vad'" }
+      },
+      {
+        "english": "100",
+        "persian": "صد",
+        "audio": "100.mp3",
+        "pronunciation": "sad",
+        "breakdown": { "sad": "like 'sad'" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 12",
+    "lesson_name": "Numbers 100 through 1000",
+    "words": [
+      {
+        "english": "100",
+        "persian": "صد",
+        "audio": "100.mp3",
+        "pronunciation": "sad",
+        "breakdown": { "sad": "like 'sad'" }
+      },
+      {
+        "english": "200",
+        "persian": "دویست",
+        "audio": "200.mp3",
+        "pronunciation": "devist",
+        "breakdown": { "de": "like 'de'", "vist": "like 'veest'" }
+      },
+      {
+        "english": "300",
+        "persian": "سیصد",
+        "audio": "300.mp3",
+        "pronunciation": "sisad",
+        "breakdown": { "si": "like 'see'", "sad": "like 'sad'" }
+      },
+      {
+        "english": "400",
+        "persian": "چهارصد",
+        "audio": "400.mp3",
+        "pronunciation": "chahaarsad",
+        "breakdown": {
+          "cha": "like 'cha'",
+          "haar": "long 'aa'",
+          "sad": "like 'sad'"
+        }
+      },
+      {
+        "english": "500",
+        "persian": "پانصد",
+        "audio": "500.mp3",
+        "pronunciation": "paansad",
+        "breakdown": { "paan": "long 'aa'", "sad": "like 'sad'" }
+      },
+      {
+        "english": "600",
+        "persian": "ششصد",
+        "audio": "600.mp3",
+        "pronunciation": "sheshsad",
+        "breakdown": { "shesh": "like 'shesh'", "sad": "like 'sad'" }
+      },
+      {
+        "english": "700",
+        "persian": "هفتصد",
+        "audio": "700.mp3",
+        "pronunciation": "haftsad",
+        "breakdown": { "haft": "like 'haft'", "sad": "like 'sad'" }
+      },
+      {
+        "english": "800",
+        "persian": "هشتصد",
+        "audio": "800.mp3",
+        "pronunciation": "hashtsad",
+        "breakdown": { "hasht": "like 'hasht'", "sad": "like 'sad'" }
+      },
+      {
+        "english": "900",
+        "persian": "نهصد",
+        "audio": "900.mp3",
+        "pronunciation": "nohsad",
+        "breakdown": { "noh": "like 'noh'", "sad": "like 'sad'" }
+      },
+      {
+        "english": "1000",
+        "persian": "هزار",
+        "audio": "1000.mp3",
+        "pronunciation": "hezar",
+        "breakdown": { "he": "like 'he'", "zar": "like 'zar'" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 13",
+    "lesson_name": "Numbers 1000 through 10000",
+    "words": [
+      {
+        "english": "1000",
+        "persian": "هزار",
+        "audio": "1000.mp3",
+        "pronunciation": "hezar",
+        "breakdown": { "he": "like 'he'", "zar": "like 'zar'" }
+      },
+      {
+        "english": "2000",
+        "persian": "دو هزار",
+        "audio": "2000.mp3",
+        "pronunciation": "do hezar",
+        "breakdown": { "do": "like 'do'", "hezar": "he-zar" }
+      },
+      {
+        "english": "3000",
+        "persian": "سه هزار",
+        "audio": "3000.mp3",
+        "pronunciation": "seh hezar",
+        "breakdown": { "seh": "like 'seh'", "hezar": "he-zar" }
+      },
+      {
+        "english": "4000",
+        "persian": "چهار هزار",
+        "audio": "4000.mp3",
+        "pronunciation": "chahaar hezar",
+        "breakdown": { "chahaar": "long 'aa'", "hezar": "he-zar" }
+      },
+      {
+        "english": "5000",
+        "persian": "پنج هزار",
+        "audio": "5000.mp3",
+        "pronunciation": "panj hezar",
+        "breakdown": { "panj": "like 'panj'", "hezar": "he-zar" }
+      },
+      {
+        "english": "6000",
+        "persian": "شش هزار",
+        "audio": "6000.mp3",
+        "pronunciation": "shesh hezar",
+        "breakdown": { "shesh": "like 'shesh'", "hezar": "he-zar" }
+      },
+      {
+        "english": "7000",
+        "persian": "هفت هزار",
+        "audio": "7000.mp3",
+        "pronunciation": "haft hezar",
+        "breakdown": { "haft": "like 'haft'", "hezar": "he-zar" }
+      },
+      {
+        "english": "8000",
+        "persian": "هشت هزار",
+        "audio": "8000.mp3",
+        "pronunciation": "hasht hezar",
+        "breakdown": { "hasht": "like 'hasht'", "hezar": "he-zar" }
+      },
+      {
+        "english": "9000",
+        "persian": "نه هزار",
+        "audio": "9000.mp3",
+        "pronunciation": "noh hezar",
+        "breakdown": { "noh": "like 'noh'", "hezar": "he-zar" }
+      },
+      {
+        "english": "10000",
+        "persian": "ده هزار",
+        "audio": "10000.mp3",
+        "pronunciation": "dah hezar",
+        "breakdown": { "dah": "like 'dah'", "hezar": "he-zar" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 14",
+    "lesson_name": "School supplies",
+    "words": [
+      {
+        "english": "Pencil",
+        "persian": "مداد",
+        "audio": "Pencil.mp3",
+        "pronunciation": "medaad",
+        "breakdown": { "me": "like 'meh'", "daad": "long 'aa'" }
+      },
+      {
+        "english": "Pencil sharpener",
+        "persian": "مداد تراش",
+        "audio": "Pencilsharpener.mp3",
+        "pronunciation": "medaad taraash",
+        "breakdown": { "medaad": "meh-daad", "taraash": "ta-raash" }
+      },
+      {
+        "english": "Pen",
+        "persian": "خودکار",
+        "audio": "Pen.mp3",
+        "pronunciation": "khodkaar",
+        "breakdown": { "khod": "kh from throat", "kaar": "long 'aa'" }
+      },
+      {
+        "english": "Scissors",
+        "persian": "قیچی",
+        "audio": "Scissors.mp3",
+        "pronunciation": "gheichi",
+        "breakdown": { "ghei": "deep 'gh'", "chi": "like 'chee'" }
+      },
+      {
+        "english": "Book",
+        "persian": "کتاب",
+        "audio": "Book.mp3",
+        "pronunciation": "ketaab",
+        "breakdown": { "ke": "like 'keh'", "taab": "long 'aa'" }
+      },
+      {
+        "english": "Paper",
+        "persian": "کاغذ",
+        "audio": "Paper.mp3",
+        "pronunciation": "kaaghaz",
+        "breakdown": { "kaa": "long 'aa'", "ghaz": "deep 'gh'" }
+      },
+      {
+        "english": "Notebook",
+        "persian": "دفتر",
+        "audio": "Notebook.mp3",
+        "pronunciation": "daftar",
+        "breakdown": { "daf": "like 'daf'", "tar": "like 'tar'" }
+      },
+      {
+        "english": "Folder",
+        "persian": "پوشه",
+        "audio": "Folder3.mp3",
+        "pronunciation": "poosheh",
+        "breakdown": { "poo": "long 'oo'", "sheh": "like 'sheh'" }
+      },
+      {
+        "english": "Ruler",
+        "persian": "خط کش",
+        "audio": "Ruler.mp3",
+        "pronunciation": "khat kesh",
+        "breakdown": { "khat": "kh from throat", "kesh": "like 'kesh'" }
+      },
+      {
+        "english": "Glue",
+        "persian": "چسب",
+        "audio": "Glue.mp3",
+        "pronunciation": "chasb",
+        "breakdown": { "chas": "like 'chas'", "b": "soft ending" }
+      },
+      {
+        "english": "Eraser",
+        "persian": "پاک کن",
+        "audio": "Eraser.mp3",
+        "pronunciation": "paak kon",
+        "breakdown": { "paak": "long 'aa'", "kon": "like 'kon'" }
+      },
+      {
+        "english": "Lunch box",
+        "persian": "جعبه ناهار",
+        "audio": "Lunchbox.mp3",
+        "pronunciation": "jabe naahaar",
+        "breakdown": { "jabe": "ja-beh", "naahaar": "long 'aa'" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 15",
+    "lesson_name": "Classroom",
+    "words": [
+      {
+        "english": "Chalkboard",
+        "persian": "تخته سیاه",
+        "audio": "Chalkboard.mp3",
+        "pronunciation": "takhte siaah",
+        "breakdown": { "takhte": "takh-teh", "siaah": "see-aah" }
+      },
+      {
+        "english": "Desk",
+        "persian": "میز مطالعه",
+        "audio": "Desk.mp3",
+        "pronunciation": "miz motaale'eh",
+        "breakdown": { "miz": "like 'meez'", "motaale": "mo-taa-leh" }
+      },
+      {
+        "english": "Report card",
+        "persian": "کارنامه",
+        "audio": "Reportcard.mp3",
+        "pronunciation": "kaarnaameh",
+        "breakdown": { "kaar": "long 'aa'", "naameh": "naa-meh" }
+      },
+      {
+        "english": "Grade level",
+        "persian": "سطح کلاس",
+        "audio": "Classlevel.mp3",
+        "pronunciation": "sath kelas",
+        "breakdown": { "sath": "like 'sath'", "kelas": "ke-las" }
+      },
+      {
+        "english": "Classroom",
+        "persian": "کلاس",
+        "audio": "Classroom.mp3",
+        "pronunciation": "kelas",
+        "breakdown": { "ke": "like 'keh'", "las": "like 'lass'" }
+      },
+      {
+        "english": "Student",
+        "persian": "دانش آموز",
+        "audio": "Student.mp3",
+        "pronunciation": "daanesh aamoos",
+        "breakdown": { "daanesh": "daa-nesh", "aamoos": "long 'aa'" }
+      },
+      {
+        "english": "Flag",
+        "persian": "پرچم",
+        "audio": "Flag.mp3",
+        "pronunciation": "parcham",
+        "breakdown": { "par": "like 'par'", "cham": "like 'cham'" }
+      },
+      {
+        "english": "Light",
+        "persian": "نور",
+        "audio": "Light2.mp3",
+        "pronunciation": "noor",
+        "breakdown": { "noor": "long 'oo'" }
+      },
+      {
+        "english": "I need a pen",
+        "persian": "من نیاز به یک خودکار دارم",
+        "audio": "Ineedapen.mp3",
+        "pronunciation": "man niaaz be yek khodkaar daaram",
+        "breakdown": { "man": "I", "niaaz": "need", "khodkaar": "pen" }
+      },
+      {
+        "english": "I need to find a map",
+        "persian": "من باید یک نقشه پیدا کنم",
+        "audio": "Ineedtofindamap.mp3",
+        "pronunciation": "man baayad yek nagh-she peydaa konam",
+        "breakdown": { "baayad": "must", "nagh-she": "map", "peydaa": "find" }
+      },
+      {
+        "english": "Is this his desk?",
+        "persian": "آیا این میز او است؟",
+        "audio": "Isthishisdesk.mp3",
+        "pronunciation": "aayaa in miz oo ast",
+        "breakdown": { "aayaa": "question word", "miz": "desk", "ast": "is" }
+      },
+      {
+        "english": "Where are the scissors?",
+        "persian": "قیچی کجا است؟",
+        "audio": "Wherearethescissors.mp3",
+        "pronunciation": "gheichi kojaa ast",
+        "breakdown": { "gheichi": "scissors", "kojaa": "where", "ast": "is" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 16",
+    "lesson_name": "School subjects",
+    "words": [
+      {
+        "english": "Math",
+        "persian": "ریاضی",
+        "audio": "Math.mp3",
+        "pronunciation": "riaazi",
+        "breakdown": { "ri": "ree", "aazi": "aa-zee (long aa)" }
+      },
+      {
+        "english": "Science",
+        "persian": "علوم",
+        "audio": "Science.mp3",
+        "pronunciation": "oloom",
+        "breakdown": { "o": "short 'o'", "loom": "long 'oo' like 'moon'" }
+      },
+      {
+        "english": "History",
+        "persian": "تاریخ",
+        "audio": "History.mp3",
+        "pronunciation": "taarikh",
+        "breakdown": {
+          "taa": "long 'aa'",
+          "rikh": "reekh (kh = throaty sound)"
+        }
+      },
+      {
+        "english": "Reading",
+        "persian": "روخوانی",
+        "audio": "Reading.mp3",
+        "pronunciation": "rokhvaani",
+        "breakdown": { "rokh": "rokh (kh sound)", "vaani": "vaa-nee (long aa)" }
+      },
+      {
+        "english": "Writing",
+        "persian": "نگارش",
+        "audio": "Writing.mp3",
+        "pronunciation": "negaresh",
+        "breakdown": { "ne": "neh", "garesh": "ga-resh" }
+      },
+      {
+        "english": "Music",
+        "persian": "موسیقی",
+        "audio": "Music2.mp3",
+        "pronunciation": "moosighii",
+        "breakdown": {
+          "moo": "long 'oo'",
+          "si": "see",
+          "ghii": "ghee (gh = deep sound)"
+        }
+      },
+      {
+        "english": "Foreign language",
+        "persian": "زبان خارجه",
+        "audio": "Foreignlanguage.mp3",
+        "pronunciation": "zabaan-e khaarejeh",
+        "breakdown": {
+          "zabaan": "za-baan (long aa)",
+          "e": "eh (linking sound)",
+          "khaarejeh": "khaa-re-jeh (kh = throaty)"
+        }
+      },
+      {
+        "english": "Geography",
+        "persian": "جغرافیا",
+        "audio": "Geography.mp3",
+        "pronunciation": "joghraafiya",
+        "breakdown": {
+          "jo": "jo",
+          "ghraa": "gh-raa (gh = deep sound, long aa)",
+          "fiya": "fee-yaa"
+        }
+      },
+      {
+        "english": "Art",
+        "persian": "هنر",
+        "audio": "Art.mp3",
+        "pronunciation": "honar",
+        "breakdown": { "ho": "ho", "nar": "nar" }
+      },
+      {
+        "english": "Biology",
+        "persian": "زيست شناسي",
+        "audio": "Biology.mp3",
+        "pronunciation": "zist shenasi",
+        "breakdown": {
+          "zist": "zeest (long ee)",
+          "shenasi": "she-na-see"
+        }
+      },
+      {
+        "english": "Physics",
+        "persian": "فیزیک",
+        "audio": "Physics.mp3",
+        "pronunciation": "fizik",
+        "breakdown": {
+          "fi": "fee",
+          "zik": "zeek (short i)"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 17",
+    "lesson_name": "Colors",
+    "words": [
+      {
+        "english": "Color",
+        "persian": "رنگ",
+        "audio": "Color.mp3",
+        "pronunciation": "rang",
+        "breakdown": { "rang": "rang" }
+      },
+      {
+        "english": "Black",
+        "persian": "سیاه",
+        "audio": "Black.mp3",
+        "pronunciation": "siaah",
+        "breakdown": { "si": "see", "aah": "aaah (long aa)" }
+      },
+      {
+        "english": "Blue",
+        "persian": "آبی",
+        "audio": "Blue.mp3",
+        "pronunciation": "aabi",
+        "breakdown": { "aa": "long aa", "bi": "bee" }
+      },
+      {
+        "english": "Brown",
+        "persian": "قهوه ای",
+        "audio": "Brown.mp3",
+        "pronunciation": "ghahvei",
+        "breakdown": { "ghah": "gh-aa (gh = throaty)", "vei": "vay" }
+      },
+      {
+        "english": "Green",
+        "persian": "سبز",
+        "audio": "Green.mp3",
+        "pronunciation": "sabz",
+        "breakdown": { "sabz": "sabz" }
+      },
+      {
+        "english": "Orange",
+        "persian": "نارنجی",
+        "audio": "Orange.mp3",
+        "pronunciation": "naarangi",
+        "breakdown": { "naa": "long aa", "ran": "ran", "gi": "gee" }
+      },
+      {
+        "english": "Purple",
+        "persian": "بنفش",
+        "audio": "Purple.mp3",
+        "pronunciation": "banafsh",
+        "breakdown": { "ba": "ba", "nafsh": "nafsh" }
+      },
+      {
+        "english": "Red",
+        "persian": "قرمز",
+        "audio": "Red.mp3",
+        "pronunciation": "ghermez",
+        "breakdown": { "gher": "gher (throaty)", "mez": "mez" }
+      },
+      {
+        "english": "White",
+        "persian": "سفید",
+        "audio": "White.mp3",
+        "pronunciation": "sefid",
+        "breakdown": { "se": "seh", "fid": "feed" }
+      },
+      {
+        "english": "Yellow",
+        "persian": "زرد",
+        "audio": "Yellow.mp3",
+        "pronunciation": "zard",
+        "breakdown": { "zard": "zard" }
+      },
+      {
+        "english": "Gray",
+        "persian": "خاکستری",
+        "audio": "Gray.mp3",
+        "pronunciation": "khaakestari",
+        "breakdown": {
+          "khaa": "khaa (long aa)",
+          "kes": "kes",
+          "ta": "ta",
+          "ri": "ree"
+        }
+      },
+      {
+        "english": "Gold",
+        "persian": "طلایی",
+        "audio": "Gold.mp3",
+        "pronunciation": "talaayi",
+        "breakdown": { "ta": "ta", "laa": "long aa", "yi": "yee" }
+      },
+      {
+        "english": "Silver",
+        "persian": "نقره ای",
+        "audio": "Silver.mp3",
+        "pronunciation": "noghre-i",
+        "breakdown": { "nogh": "nogh (throaty)", "re": "reh", "i": "ee" }
+      },
+      {
+        "english": "What color is it?",
+        "persian": "چه رنگی است؟",
+        "audio": "Whatcolorisit.mp3",
+        "pronunciation": "che rangi ast?",
+        "breakdown": { "che": "cheh", "ran": "rang", "gi": "ee", "ast": "ast" }
+      },
+      {
+        "english": "The color is red",
+        "persian": "رنگ قرمز است",
+        "audio": "Thecolorisred.mp3",
+        "pronunciation": "rang ghermez ast",
+        "breakdown": {
+          "rang": "rang",
+          "gher": "gher (throaty)",
+          "mez": "mez",
+          "ast": "ast"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 18",
+    "lesson_name": "Geography",
+    "words": [
+      {
+        "english": "Volcano",
+        "persian": "آتشفشان",
+        "audio": "Volcano.mp3",
+        "pronunciation": "aatashfashaan",
+        "breakdown": {
+          "aa": "long aa",
+          "tash": "tash",
+          "fashaan": "fa-shaan (long aa)"
+        }
+      },
+      {
+        "english": "Canyon",
+        "persian": "دره عمیق و باریک",
+        "audio": "Canyon.mp3",
+        "pronunciation": "darreh-ye amigh va baarik",
+        "breakdown": {
+          "darreh": "dar-reh",
+          "ye": "yeh (linking)",
+          "a": "a",
+          "migh": "mee-gh",
+          "va": "va",
+          "baarik": "baa-rik (long aa)"
+        }
+      },
+      {
+        "english": "Forest",
+        "persian": "جنگل",
+        "audio": "Forest.mp3",
+        "pronunciation": "jangal",
+        "breakdown": { "jan": "jan", "gal": "gal" }
+      },
+      {
+        "english": "Jungle",
+        "persian": "جنگل",
+        "audio": "Jungle.mp3",
+        "pronunciation": "jangal",
+        "breakdown": { "jan": "jan", "gal": "gal" }
+      },
+      {
+        "english": "Marsh",
+        "persian": "مرداب",
+        "audio": "Marsh.mp3",
+        "pronunciation": "mordaab",
+        "breakdown": { "mor": "mor", "daab": "daab (long aa)" }
+      },
+      {
+        "english": "Mountain",
+        "persian": "کوه",
+        "audio": "Mountain.mp3",
+        "pronunciation": "kooh",
+        "breakdown": { "kooh": "kooh (long oo)" }
+      },
+      {
+        "english": "Mountain range",
+        "persian": "رشته کوه",
+        "audio": "Mountainrange.mp3",
+        "pronunciation": "reshteh kooh",
+        "breakdown": { "resh": "resh", "teh": "teh", "kooh": "kooh (long oo)" }
+      },
+      {
+        "english": "Hill",
+        "persian": "تپه",
+        "audio": "Hill.mp3",
+        "pronunciation": "tappeh",
+        "breakdown": { "tap": "tap", "peh": "peh" }
+      },
+      {
+        "english": "Waterfall",
+        "persian": "آبشار",
+        "audio": "Waterfall.mp3",
+        "pronunciation": "aabshaar",
+        "breakdown": { "aab": "long aa", "shaar": "shaar (long aa)" }
+      },
+      {
+        "english": "River",
+        "persian": "رودخانه",
+        "audio": "River.mp3",
+        "pronunciation": "roodkhaneh",
+        "breakdown": { "rood": "long oo", "kha": "kha (throaty)", "neh": "neh" }
+      },
+      {
+        "english": "Lake",
+        "persian": "دریاچه",
+        "audio": "Lake.mp3",
+        "pronunciation": "daryaacheh",
+        "breakdown": { "dar": "dar", "yaa": "long aa", "cheh": "cheh" }
+      },
+      {
+        "english": "Desert",
+        "persian": "بیابان",
+        "audio": "Desert.mp3",
+        "pronunciation": "biabaan",
+        "breakdown": { "bi": "bee", "aa": "long aa", "baan": "baan" }
+      },
+      {
+        "english": "Peninsula",
+        "persian": "شبه جزیره",
+        "audio": "Peninsula.mp3",
+        "pronunciation": "shab-e jazireh",
+        "breakdown": {
+          "shab": "shab",
+          "e": "eh (linking)",
+          "ja": "ja",
+          "zi": "zee",
+          "reh": "reh"
+        }
+      },
+      {
+        "english": "Island",
+        "persian": "جزیره",
+        "audio": "Island.mp3",
+        "pronunciation": "jazireh",
+        "breakdown": { "ja": "ja", "zi": "zee", "reh": "reh" }
+      },
+      {
+        "english": "Beach",
+        "persian": "ساحل",
+        "audio": "Beach.mp3",
+        "pronunciation": "sahel",
+        "breakdown": { "sa": "sa", "hel": "hel" }
+      },
+      {
+        "english": "Ocean",
+        "persian": "اقیانوس",
+        "audio": "Ocean.mp3",
+        "pronunciation": "oghyaanoos",
+        "breakdown": {
+          "ogh": "ogh (throaty)",
+          "yaa": "long aa",
+          "noos": "noos"
+        }
+      },
+      {
+        "english": "Sea",
+        "persian": "دریا",
+        "audio": "Sea.mp3",
+        "pronunciation": "daryaa",
+        "breakdown": { "dar": "dar", "yaa": "long aa" }
+      },
+      {
+        "english": "Bay",
+        "persian": "خلیج",
+        "audio": "Bay.mp3",
+        "pronunciation": "khalij",
+        "breakdown": { "kha": "kha (throaty)", "lij": "lij" }
+      },
+      {
+        "english": "Coast",
+        "persian": "ساحل",
+        "audio": "Coast.mp3",
+        "pronunciation": "sahel",
+        "breakdown": { "sa": "sa", "hel": "hel" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 19",
+    "lesson_name": "Astronomy",
+    "words": [
+      {
+        "english": "Galaxy",
+        "persian": "کهکشان",
+        "audio": "Galaxy.mp3",
+        "pronunciation": "kahkeshan",
+        "breakdown": { "kah": "kah (throaty)", "kesh": "kesh", "an": "an" }
+      },
+      {
+        "english": "Star",
+        "persian": "ستاره",
+        "audio": "Star.mp3",
+        "pronunciation": "setaareh",
+        "breakdown": { "se": "seh", "taa": "long aa", "reh": "reh" }
+      },
+      {
+        "english": "Moon",
+        "persian": "ماه",
+        "audio": "Moon.mp3",
+        "pronunciation": "maah",
+        "breakdown": { "maah": "long aa" }
+      },
+      {
+        "english": "Planet",
+        "persian": "سیاره",
+        "audio": "Planet.mp3",
+        "pronunciation": "sayaareh",
+        "breakdown": { "sa": "sa", "yaa": "long aa", "reh": "reh" }
+      },
+      {
+        "english": "Asteroid",
+        "persian": "ستارک",
+        "audio": "Asteroid.mp3",
+        "pronunciation": "setaark",
+        "breakdown": { "se": "seh", "taark": "taark (long aa)" }
+      },
+      {
+        "english": "Comet",
+        "persian": "ستاره دنباله دار",
+        "audio": "Comet.mp3",
+        "pronunciation": "setaareh-ye donbaaleh daar",
+        "breakdown": {
+          "se": "seh",
+          "taa": "long aa",
+          "reh": "reh",
+          "ye": "yeh (linking)",
+          "don": "don",
+          "baa": "long aa",
+          "leh": "leh",
+          "daar": "daar (long aa)"
+        }
+      },
+      {
+        "english": "Meteor",
+        "persian": "شهاب",
+        "audio": "Meteor.mp3",
+        "pronunciation": "shahaab",
+        "breakdown": { "sha": "sha", "haab": "haab (long aa)" }
+      },
+      {
+        "english": "Space",
+        "persian": "فضا",
+        "audio": "Space.mp3",
+        "pronunciation": "faza",
+        "breakdown": { "fa": "fa", "za": "za" }
+      },
+      {
+        "english": "Universe",
+        "persian": "جهان",
+        "audio": "Universe.mp3",
+        "pronunciation": "jahan",
+        "breakdown": { "ja": "ja", "han": "han" }
+      },
+      {
+        "english": "Telescope",
+        "persian": "تلسکوپ",
+        "audio": "Telescope.mp3",
+        "pronunciation": "teleskoop",
+        "breakdown": { "te": "teh", "les": "les", "koop": "long oo" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 20",
+    "lesson_name": "Solar system",
+    "words": [
+      {
+        "english": "Solar system",
+        "persian": "منظومه شمسی",
+        "audio": "Solarsystem.mp3",
+        "pronunciation": "manzoomeh shamsi",
+        "breakdown": {
+          "man": "man",
+          "zoo": "zoo",
+          "meh": "meh",
+          "sham": "sham",
+          "si": "see"
+        }
+      },
+      {
+        "english": "Sun",
+        "persian": "خورشید",
+        "audio": "Sun.mp3",
+        "pronunciation": "khorsheed",
+        "breakdown": { "khor": "khor (throaty)", "sheed": "sheed (long ee)" }
+      },
+      {
+        "english": "Mercury",
+        "persian": "عطارد",
+        "audio": "Mercury.mp3",
+        "pronunciation": "otaard",
+        "breakdown": { "o": "o", "taard": "taard (long aa)" }
+      },
+      {
+        "english": "Venus",
+        "persian": "ونوس",
+        "audio": "Venus.mp3",
+        "pronunciation": "venoos",
+        "breakdown": { "ve": "ve", "noos": "noos (long oo)" }
+      },
+      {
+        "english": "Earth",
+        "persian": "زمین",
+        "audio": "Earth.mp3",
+        "pronunciation": "zamin",
+        "breakdown": { "za": "za", "min": "min" }
+      },
+      {
+        "english": "Mars",
+        "persian": "مریخ",
+        "audio": "Mars.mp3",
+        "pronunciation": "marikh",
+        "breakdown": { "ma": "ma", "rikh": "reekh (kh = throaty)" }
+      },
+      {
+        "english": "Jupiter",
+        "persian": "مشتری",
+        "audio": "Jupiter.mp3",
+        "pronunciation": "moshtari",
+        "breakdown": { "mosh": "mosh", "ta": "ta", "ri": "ree" }
+      },
+      {
+        "english": "Saturn",
+        "persian": "زحل",
+        "audio": "Saturn.mp3",
+        "pronunciation": "zohal",
+        "breakdown": { "zo": "zo", "hal": "hal" }
+      },
+      {
+        "english": "Uranus",
+        "persian": "اورانوس",
+        "audio": "Uranus.mp3",
+        "pronunciation": "uraanoos",
+        "breakdown": { "u": "u", "raa": "long aa", "noos": "noos (long oo)" }
+      },
+      {
+        "english": "Neptune",
+        "persian": "نپتون",
+        "audio": "Neptune.mp3",
+        "pronunciation": "neptoon",
+        "breakdown": { "nep": "nep", "toon": "toon (long oo)" }
+      },
+      {
+        "english": "Pluto",
+        "persian": "پلوتو",
+        "audio": "Pluto.mp3",
+        "pronunciation": "pluto",
+        "breakdown": { "plu": "ploo (long oo)", "to": "to" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 21",
+    "lesson_name": "Seasons and weather",
+    "words": [
+      {
+        "english": "Seasons",
+        "persian": "فصل ها",
+        "audio": "Seasons.mp3",
+        "pronunciation": "fasl-ha",
+        "breakdown": { "fasl": "fasl", "ha": "ha" }
+      },
+      {
+        "english": "Winter",
+        "persian": "زمستان",
+        "audio": "Winter.mp3",
+        "pronunciation": "zemestaan",
+        "breakdown": { "ze": "ze", "mes": "mes", "taan": "long aa" }
+      },
+      {
+        "english": "Summer",
+        "persian": "تابستان",
+        "audio": "Summer.mp3",
+        "pronunciation": "taabestaan",
+        "breakdown": { "taa": "long aa", "be": "be", "staan": "staan" }
+      },
+      {
+        "english": "Spring",
+        "persian": "بهار",
+        "audio": "Spring.mp3",
+        "pronunciation": "bahaar",
+        "breakdown": { "ba": "ba", "haar": "long aa" }
+      },
+      {
+        "english": "Autumn",
+        "persian": "پاییز",
+        "audio": "Fall.mp3",
+        "pronunciation": "paayiz",
+        "breakdown": { "paa": "long aa", "yiz": "yiz" }
+      },
+      {
+        "english": "Sky",
+        "persian": "آسمان",
+        "audio": "Sky.mp3",
+        "pronunciation": "aasemaan",
+        "breakdown": { "aa": "long aa", "se": "se", "maan": "maan" }
+      },
+      {
+        "english": "Cloud",
+        "persian": "ابر",
+        "audio": "Cloud.mp3",
+        "pronunciation": "abr",
+        "breakdown": { "abr": "abr" }
+      },
+      {
+        "english": "Rainbow",
+        "persian": "رنگین کمان",
+        "audio": "Rainbow.mp3",
+        "pronunciation": "rangin-kamaan",
+        "breakdown": {
+          "ran": "ran",
+          "gin": "gin",
+          "ka": "ka",
+          "maan": "maan (long aa)"
+        }
+      },
+      {
+        "english": "Cold (weather)",
+        "persian": "سرد",
+        "audio": "Coldweather.mp3",
+        "pronunciation": "sard",
+        "breakdown": { "sard": "sard" }
+      },
+      {
+        "english": "Hot (weather)",
+        "persian": "گرم",
+        "audio": "Hotweather.mp3",
+        "pronunciation": "garm",
+        "breakdown": { "garm": "garm" }
+      },
+      {
+        "english": "It is hot",
+        "persian": "گرم است",
+        "audio": "Itishot.mp3",
+        "pronunciation": "garm ast",
+        "breakdown": { "garm": "garm", "ast": "ast" }
+      },
+      {
+        "english": "It is cold",
+        "persian": "سرد است",
+        "audio": "Itiscold.mp3",
+        "pronunciation": "sard ast",
+        "breakdown": { "sard": "sard", "ast": "ast" }
+      },
+      {
+        "english": "It is sunny",
+        "persian": "آفتابی است",
+        "audio": "Itissunny.mp3",
+        "pronunciation": "aaftaabi ast",
+        "breakdown": {
+          "aaf": "aaf",
+          "taa": "long aa",
+          "bi": "bee",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "It is cloudy",
+        "persian": "ابری است",
+        "audio": "Itiscloudy.mp3",
+        "pronunciation": "abri ast",
+        "breakdown": { "ab": "ab", "ri": "ree", "ast": "ast" }
+      },
+      {
+        "english": "It is humid",
+        "persian": "مرطوب است",
+        "audio": "Itishumid.mp3",
+        "pronunciation": "martoob ast",
+        "breakdown": { "mar": "mar", "toob": "toob (long oo)", "ast": "ast" }
+      },
+      {
+        "english": "It is raining",
+        "persian": "بارانی است",
+        "audio": "Itisraining.mp3",
+        "pronunciation": "baaraani ast",
+        "breakdown": {
+          "baa": "long aa",
+          "raa": "long aa",
+          "ni": "nee",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "It is snowing",
+        "persian": "برفی است",
+        "audio": "Itissnowing.mp3",
+        "pronunciation": "barfi ast",
+        "breakdown": { "bar": "bar", "fi": "fee", "ast": "ast" }
+      },
+      {
+        "english": "It is windy",
+        "persian": "باد می وزد",
+        "audio": "Itiswindy.mp3",
+        "pronunciation": "baad mi vazzad",
+        "breakdown": {
+          "baad": "long aa",
+          "mi": "mee",
+          "vaz": "vaz",
+          "zad": "zad"
+        }
+      },
+      {
+        "english": "How is the weather?",
+        "persian": "آب و هوا چطور است؟",
+        "audio": "Howistheweather.mp3",
+        "pronunciation": "aab-o-havaa chetor ast?",
+        "breakdown": {
+          "aab": "long aa",
+          "o": "o",
+          "ha": "ha",
+          "vaa": "long aa",
+          "che": "che",
+          "tor": "tor",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "Good weather",
+        "persian": "آب وهوای خوب",
+        "audio": "Goodweather.mp3",
+        "pronunciation": "aab-o-havaa-ye khoob",
+        "breakdown": {
+          "aab": "long aa",
+          "o": "o",
+          "ha": "ha",
+          "vaa": "long aa",
+          "ye": "yeh (linking)",
+          "khoob": "khoob"
+        }
+      },
+      {
+        "english": "Bad weather",
+        "persian": "آب و هوای بد",
+        "audio": "Badweather.mp3",
+        "pronunciation": "aab-o-havaa-ye bad",
+        "breakdown": {
+          "aab": "long aa",
+          "o": "o",
+          "ha": "ha",
+          "vaa": "long aa",
+          "ye": "yeh",
+          "bad": "bad"
+        }
+      },
+      {
+        "english": "What is the temperature?",
+        "persian": "دما چند است؟",
+        "audio": "Whatisthetemperature.mp3",
+        "pronunciation": "damaa chand ast?",
+        "breakdown": {
+          "da": "da",
+          "maa": "long aa",
+          "chand": "chand",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "It is 24 degrees",
+        "persian": "24 درجه است",
+        "audio": "Itis24degrees.mp3",
+        "pronunciation": "24 darajeh ast",
+        "breakdown": {
+          "24": "24",
+          "da": "da",
+          "ra": "ra",
+          "jeh": "jeh",
+          "ast": "ast"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 22",
+    "lesson_name": "Sports",
+    "words": [
+      {
+        "english": "Soccer",
+        "persian": "فوتبال",
+        "audio": "Soccer.mp3",
+        "pronunciation": "footbaal",
+        "breakdown": { "foot": "foot (long oo)", "baal": "baal" }
+      },
+      {
+        "english": "Baseball",
+        "persian": "بسیبال",
+        "audio": "Baseball.mp3",
+        "pronunciation": "besibaal",
+        "breakdown": { "be": "be", "si": "see", "baal": "baal" }
+      },
+      {
+        "english": "American football",
+        "persian": "فوتبال آمریکایی",
+        "audio": "Americanfootball.mp3",
+        "pronunciation": "footbaal-e aamerikaayi",
+        "breakdown": {
+          "foot": "foot (long oo)",
+          "baal": "baal",
+          "e": "linking eh",
+          "aa": "long aa",
+          "me": "me",
+          "ri": "ree",
+          "kaa": "long aa",
+          "yi": "yee"
+        }
+      },
+      {
+        "english": "Basketball",
+        "persian": "بسکتبال",
+        "audio": "Basketball.mp3",
+        "pronunciation": "baskitbaal",
+        "breakdown": { "bas": "bas", "kit": "kit", "baal": "baal" }
+      },
+      {
+        "english": "Hockey",
+        "persian": "هاکی",
+        "audio": "Hockey.mp3",
+        "pronunciation": "haaki",
+        "breakdown": { "haa": "long aa", "ki": "kee" }
+      },
+      {
+        "english": "Volleyball",
+        "persian": "والیبال",
+        "audio": "Volleyball.mp3",
+        "pronunciation": "vaalibaal",
+        "breakdown": { "vaa": "long aa", "li": "lee", "baal": "baal" }
+      },
+      {
+        "english": "Cricket",
+        "persian": "کریکت",
+        "audio": "Cricket.mp3",
+        "pronunciation": "keriket",
+        "breakdown": { "ke": "ke", "ri": "ree", "ket": "ket" }
+      },
+      {
+        "english": "Tennis",
+        "persian": "تنیس",
+        "audio": "Tennis.mp3",
+        "pronunciation": "tenis",
+        "breakdown": { "te": "te", "nis": "nis" }
+      },
+      {
+        "english": "Golf",
+        "persian": "گلف",
+        "audio": "Golf.mp3",
+        "pronunciation": "golf",
+        "breakdown": { "golf": "golf" }
+      },
+      {
+        "english": "Bowling",
+        "persian": "بولینگ",
+        "audio": "Bowling.mp3",
+        "pronunciation": "booling",
+        "breakdown": { "boo": "long oo", "ling": "ling" }
+      },
+      {
+        "english": "Rugby",
+        "persian": "رگبی",
+        "audio": "Rugby.mp3",
+        "pronunciation": "ragbi",
+        "breakdown": { "rag": "rag", "bi": "bee" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 23",
+    "lesson_name": "Recreation",
+    "words": [
+      {
+        "english": "Surfing",
+        "persian": "موج سواری",
+        "audio": "Surfing.mp3",
+        "pronunciation": "moj-savaari",
+        "breakdown": {
+          "moj": "moj",
+          "sa": "saa",
+          "vaa": "long aa",
+          "ri": "ree"
+        }
+      },
+      {
+        "english": "Swimming",
+        "persian": "شنا",
+        "audio": "Swimming.mp3",
+        "pronunciation": "shenaa",
+        "breakdown": { "she": "she", "naa": "long aa" }
+      },
+      {
+        "english": "Diving",
+        "persian": "غواصی",
+        "audio": "Diving.mp3",
+        "pronunciation": "ghavaasi",
+        "breakdown": {
+          "gha": "ghaa (throaty, long aa)",
+          "vaa": "long aa",
+          "si": "see"
+        }
+      },
+      {
+        "english": "Cycling",
+        "persian": "دوچرخه سواری",
+        "audio": "Cycling.mp3",
+        "pronunciation": "docharkhe-savaari",
+        "breakdown": {
+          "do": "do",
+          "char": "char",
+          "khe": "khe (throaty)",
+          "sa": "saa",
+          "vaa": "long aa",
+          "ri": "ree"
+        }
+      },
+      {
+        "english": "Archery",
+        "persian": "تیراندازی",
+        "audio": "Archery.mp3",
+        "pronunciation": "tirandaazi",
+        "breakdown": { "tir": "tir", "an": "an", "daa": "long aa", "zi": "zee" }
+      },
+      {
+        "english": "Sailing",
+        "persian": "قایق رانی",
+        "audio": "Sailing.mp3",
+        "pronunciation": "ghaa-yeq-raani",
+        "breakdown": {
+          "ghaa": "long aa",
+          "yeq": "yeq",
+          "raa": "long aa",
+          "ni": "nee"
+        }
+      },
+      {
+        "english": "Fencing",
+        "persian": "شمشیربازی",
+        "audio": "Fencing.mp3",
+        "pronunciation": "shamshirbaazi",
+        "breakdown": {
+          "sham": "sham",
+          "shir": "sheer",
+          "baa": "long aa",
+          "zi": "zee"
+        }
+      },
+      {
+        "english": "Skiing",
+        "persian": "اسکی",
+        "audio": "Skiing.mp3",
+        "pronunciation": "eski",
+        "breakdown": { "es": "es", "ki": "kee" }
+      },
+      {
+        "english": "Snow boarding",
+        "persian": "اسنوبورد",
+        "audio": "Snowboarding.mp3",
+        "pronunciation": "esnoobord",
+        "breakdown": { "es": "es", "noo": "long oo", "bord": "bord" }
+      },
+      {
+        "english": "Ice skating",
+        "persian": "اسکی رو یخ",
+        "audio": "Iceskating.mp3",
+        "pronunciation": "eski-ro-ye yakh",
+        "breakdown": {
+          "es": "es",
+          "ki": "kee",
+          "ro": "ro",
+          "ye": "yeh",
+          "yakh": "yakh"
+        }
+      },
+      {
+        "english": "Boxing",
+        "persian": "بوکس",
+        "audio": "Boxing.mp3",
+        "pronunciation": "buks",
+        "breakdown": { "buks": "buks" }
+      },
+      {
+        "english": "Running",
+        "persian": "دویدن",
+        "audio": "Running.mp3",
+        "pronunciation": "davidan",
+        "breakdown": { "da": "da", "vi": "vee", "dan": "dan" }
+      },
+      {
+        "english": "Weightlifting",
+        "persian": "وزنه برداری",
+        "audio": "Weightlifting.mp3",
+        "pronunciation": "vazneh-bardaari",
+        "breakdown": {
+          "vaz": "vaz",
+          "neh": "neh",
+          "bar": "bar",
+          "daa": "long aa",
+          "ri": "ree"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 24",
+    "lesson_name": "Musical instruments",
+    "words": [
+      {
+        "english": "Guitar",
+        "persian": "گیتار",
+        "audio": "Guitar.mp3",
+        "pronunciation": "geetaar",
+        "breakdown": { "gee": "gee", "taar": "long aa" }
+      },
+      {
+        "english": "Drum",
+        "persian": "طبل",
+        "audio": "Drum.mp3",
+        "pronunciation": "tabl",
+        "breakdown": { "tabl": "tabl" }
+      },
+      {
+        "english": "Trumpet",
+        "persian": "شیپور",
+        "audio": "Trumpet.mp3",
+        "pronunciation": "sheepoor",
+        "breakdown": { "shee": "long ee", "poor": "poor" }
+      },
+      {
+        "english": "Violin",
+        "persian": "ویولن",
+        "audio": "Violin.mp3",
+        "pronunciation": "violin",
+        "breakdown": { "vi": "vee", "o": "short o", "lin": "lin" }
+      },
+      {
+        "english": "Flute",
+        "persian": "فلوت",
+        "audio": "Flute.mp3",
+        "pronunciation": "floote",
+        "breakdown": { "floo": "long oo", "te": "te" }
+      },
+      {
+        "english": "Tuba",
+        "persian": "شیپور بزرگ",
+        "audio": "Tuba.mp3",
+        "pronunciation": "sheepoor-e bozorg",
+        "breakdown": {
+          "shee": "long ee",
+          "poor": "poor",
+          "e": "linking eh",
+          "bo": "bo",
+          "zorg": "zorg"
+        }
+      },
+      {
+        "english": "Harmonica",
+        "persian": "سازدهنی",
+        "audio": "Harmonica.mp3",
+        "pronunciation": "saazdehni",
+        "breakdown": { "saaz": "long aa", "deh": "deh", "ni": "nee" }
+      },
+      {
+        "english": "Piano",
+        "persian": "پیانو",
+        "audio": "Piano.mp3",
+        "pronunciation": "piaano",
+        "breakdown": { "pi": "pee", "aa": "long aa", "no": "no" }
+      },
+      {
+        "english": "Tambourine",
+        "persian": "طبل بزرگ",
+        "audio": "Tambourine.mp3",
+        "pronunciation": "tabl-e bozorg",
+        "breakdown": {
+          "tabl": "tabl",
+          "e": "linking eh",
+          "bo": "bo",
+          "zorg": "zorg"
+        }
+      },
+      {
+        "english": "Organ",
+        "persian": "ابزار",
+        "audio": "Organ.mp3",
+        "pronunciation": "abzaar",
+        "breakdown": { "ab": "ab", "zaar": "long aa" }
+      },
+      {
+        "english": "Harp",
+        "persian": "چنگ",
+        "audio": "Harp.mp3",
+        "pronunciation": "chang",
+        "breakdown": { "chang": "chang" }
+      },
+      {
+        "english": "Instrument",
+        "persian": "آلت",
+        "audio": "Instrument.mp3",
+        "pronunciation": "aalat",
+        "breakdown": { "aa": "long aa", "lat": "lat" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 25",
+    "lesson_name": "In the pool",
+    "words": [
+      {
+        "english": "Water",
+        "persian": "آب",
+        "audio": "Water.mp3",
+        "pronunciation": "aab",
+        "breakdown": { "aab": "long aa" }
+      },
+      {
+        "english": "Swimming pool",
+        "persian": "استخر",
+        "audio": "Pool.mp3",
+        "pronunciation": "estakhr",
+        "breakdown": { "es": "es", "takhr": "takhr" }
+      },
+      {
+        "english": "Lifeguard",
+        "persian": "نجات غریق",
+        "audio": "Lifeguard.mp3",
+        "pronunciation": "nejaat-e ghariq",
+        "breakdown": {
+          "ne": "neh",
+          "jaat": "long aa",
+          "e": "linking eh",
+          "gha": "ghaa (throaty, long aa)",
+          "riq": "reeq"
+        }
+      },
+      {
+        "english": "Kickboard",
+        "persian": "تخته شنا",
+        "audio": "Kickboard.mp3",
+        "pronunciation": "takhteh-shenaa",
+        "breakdown": {
+          "takh": "takh",
+          "teh": "teh",
+          "she": "she",
+          "naa": "long aa"
+        }
+      },
+      {
+        "english": "Is there a lifeguard?",
+        "persian": "آیا نجات غریق وجود دارد؟",
+        "audio": "Istherealifeguard.mp3",
+        "pronunciation": "aayaa nejaat-e ghariq vojud daar?",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "ne": "neh",
+          "jaat": "long aa",
+          "e": "linking eh",
+          "gha": "ghaa",
+          "riq": "reeq",
+          "vo": "vo",
+          "jud": "jud",
+          "daar": "long aa"
+        }
+      },
+      {
+        "english": "Is the water cold?",
+        "persian": "آیا آب سرد است؟",
+        "audio": "Isthewatercold.mp3",
+        "pronunciation": "aayaa aab sard ast?",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "aab": "long aa",
+          "sard": "sard",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "Bathing suit",
+        "persian": "مایوی حمام آفتاب",
+        "audio": "Bathingsuit.mp3",
+        "pronunciation": "maayoo-ye hamaam-e aaftaab",
+        "breakdown": {
+          "maa": "long aa",
+          "yoo": "yoo",
+          "ye": "linking eh",
+          "ha": "ha",
+          "maam": "maam",
+          "e": "linking eh",
+          "aaf": "long aa",
+          "taab": "taab"
+        }
+      },
+      {
+        "english": "Sunglasses",
+        "persian": "عینک آفتابی",
+        "audio": "Sunglasses.mp3",
+        "pronunciation": "eynake aaftaabi",
+        "breakdown": {
+          "eyn": "eyn",
+          "ak": "ak",
+          "e": "linking eh",
+          "aaf": "long aa",
+          "taa": "long aa",
+          "bi": "bee"
+        }
+      },
+      {
+        "english": "Towels",
+        "persian": "حوله",
+        "audio": "Towels.mp3",
+        "pronunciation": "huleh",
+        "breakdown": { "hu": "hu", "leh": "leh" }
+      },
+      {
+        "english": "Sunblock",
+        "persian": "ضد آفتاب",
+        "audio": "Sunblock.mp3",
+        "pronunciation": "zedd-e aaftaab",
+        "breakdown": {
+          "zed": "zed",
+          "d": "d",
+          "e": "linking eh",
+          "aaf": "long aa",
+          "taab": "taab"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 26",
+    "lesson_name": "At the beach",
+    "words": [
+      {
+        "english": "At the beach",
+        "persian": "در ساحل",
+        "audio": "Atthebeach.mp3",
+        "pronunciation": "dar sahel",
+        "breakdown": { "dar": "dar", "sa": "sa", "hel": "hel" }
+      },
+      {
+        "english": "Wave",
+        "persian": "موج",
+        "audio": "Wave.mp3",
+        "pronunciation": "moj",
+        "breakdown": { "moj": "moj" }
+      },
+      {
+        "english": "Sand",
+        "persian": "شن",
+        "audio": "Sand.mp3",
+        "pronunciation": "shen",
+        "breakdown": { "shen": "shen" }
+      },
+      {
+        "english": "Sunset",
+        "persian": "غروب",
+        "audio": "Sunset.mp3",
+        "pronunciation": "ghorub",
+        "breakdown": { "gho": "gho", "rub": "roob" }
+      },
+      {
+        "english": "High tide",
+        "persian": "مد",
+        "audio": "Hightide.mp3",
+        "pronunciation": "mad",
+        "breakdown": { "mad": "mad" }
+      },
+      {
+        "english": "Low tide",
+        "persian": "جزر",
+        "audio": "Lowtide.mp3",
+        "pronunciation": "jazr",
+        "breakdown": { "jazr": "jazr" }
+      },
+      {
+        "english": "Cooler",
+        "persian": "کولر",
+        "audio": "Cooler.mp3",
+        "pronunciation": "kooler",
+        "breakdown": { "koo": "long oo", "ler": "ler" }
+      },
+      {
+        "english": "Bucket",
+        "persian": "سطل",
+        "audio": "Bucket.mp3",
+        "pronunciation": "satl",
+        "breakdown": { "satl": "satl" }
+      },
+      {
+        "english": "Shovel",
+        "persian": "بیل",
+        "audio": "Shovel.mp3",
+        "pronunciation": "beel",
+        "breakdown": { "beel": "long ee" }
+      },
+      {
+        "english": "Surfboard",
+        "persian": "تخته مخصوص اسکی روی آب",
+        "audio": "Surfboard.mp3",
+        "pronunciation": "takhteh-ye makhsoos-e eskee rooy-e aab",
+        "breakdown": {
+          "takh": "takh",
+          "teh": "teh",
+          "ye": "linking eh",
+          "makh": "makh",
+          "soos": "soos",
+          "e": "linking eh",
+          "es": "es",
+          "kee": "long ee",
+          "rooy": "rooy",
+          "e": "linking eh",
+          "aab": "long aa"
+        }
+      },
+      {
+        "english": "Ball",
+        "persian": "توپ",
+        "audio": "Ball.mp3",
+        "pronunciation": "toop",
+        "breakdown": { "toop": "long oo" }
+      },
+      {
+        "english": "Beach ball",
+        "persian": "توپ ساحلی",
+        "audio": "Beachball.mp3",
+        "pronunciation": "toop-e saahli",
+        "breakdown": {
+          "toop": "long oo",
+          "e": "linking eh",
+          "saah": "long aa",
+          "li": "li"
+        }
+      },
+      {
+        "english": "Beach bag",
+        "persian": "کیف ساحل",
+        "audio": "Beachbag.mp3",
+        "pronunciation": "kif-e sahel",
+        "breakdown": {
+          "kif": "kif",
+          "e": "linking eh",
+          "sa": "sa",
+          "hel": "hel"
+        }
+      },
+      {
+        "english": "Beach umbrella",
+        "persian": "چتر ساحلی",
+        "audio": "Beachumbrella.mp3",
+        "pronunciation": "chatr-e saahli",
+        "breakdown": {
+          "chatr": "chatr",
+          "e": "linking eh",
+          "saah": "long aa",
+          "li": "li"
+        }
+      },
+      {
+        "english": "Beach chair",
+        "persian": "صندلی ساحلی",
+        "audio": "Beachchair.mp3",
+        "pronunciation": "sandali-e saahli",
+        "breakdown": {
+          "san": "san",
+          "da": "da",
+          "li": "li",
+          "e": "linking eh",
+          "saah": "long aa",
+          "li": "li"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 27",
+    "lesson_name": "Beach activities",
+    "words": [
+      {
+        "english": "Sunbathe",
+        "persian": "حمام آفتاب گرفتن",
+        "audio": "Sunbathe.mp3",
+        "pronunciation": "hamaam-e aaftaab gereftan",
+        "breakdown": {
+          "ha": "ha",
+          "maam": "maam",
+          "e": "linking eh",
+          "aaf": "long aa",
+          "taab": "taab",
+          "ger": "ger",
+          "ef": "ef",
+          "tan": "tan"
+        }
+      },
+      {
+        "english": "Snorkel",
+        "persian": "لوله مخصوص تنفس در زیر اب",
+        "audio": "Snorkel.mp3",
+        "pronunciation": "looleh-ye makhsoos-e tanaffos dar zire aab",
+        "breakdown": {
+          "loo": "long oo",
+          "leh": "leh",
+          "ye": "linking eh",
+          "makh": "makh",
+          "soos": "soos",
+          "e": "linking eh",
+          "ta": "ta",
+          "naffos": "naffos",
+          "dar": "dar",
+          "zir": "zir",
+          "e": "linking eh",
+          "aab": "long aa"
+        }
+      },
+      {
+        "english": "Snorkeling",
+        "persian": "غواصی",
+        "audio": "Snorkeling.mp3",
+        "pronunciation": "ghovaasi",
+        "breakdown": { "gho": "gho", "vaa": "long aa", "si": "see" }
+      },
+      {
+        "english": "Is it a sandy beach?",
+        "persian": "آیا ساحل شنی است؟",
+        "audio": "Isthebeachsandy.mp3",
+        "pronunciation": "aayaa-ye sahel-e sheni ast",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "ye": "linking eh",
+          "sa": "sa",
+          "hel": "hel",
+          "e": "linking eh",
+          "she": "she",
+          "ni": "nee",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "Is it safe for children?",
+        "persian": "آیا آن برای کودکان ایمن است؟",
+        "audio": "Isitsafeforchildren.mp3",
+        "pronunciation": "aayaa aan baraye koodakaan-e eyman ast",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "aan": "aan",
+          "ba": "ba",
+          "ra": "ra",
+          "ye": "linking eh",
+          "koo": "long oo",
+          "daa": "daa",
+          "kaan": "kaan",
+          "e": "linking eh",
+          "ey": "ey",
+          "man": "man",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "Can we swim here?",
+        "persian": "می توانیم اینجا شنا کنیم؟",
+        "audio": "Canweswimhere.mp3",
+        "pronunciation": "mitavaanim injaa shenaa konim",
+        "breakdown": {
+          "mi": "mi",
+          "ta": "ta",
+          "vaa": "long aa",
+          "nim": "nim",
+          "in": "in",
+          "jaa": "long aa",
+          "she": "she",
+          "naa": "long aa",
+          "ko": "ko",
+          "nim": "nim"
+        }
+      },
+      {
+        "english": "Is it safe to swim here?",
+        "persian": "آیا اینجا برای شنا کردن امن است؟",
+        "audio": "Isitsafetoswimhere.mp3",
+        "pronunciation": "aayaa injaa baraye shenaa kardan-e aman ast",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "in": "in",
+          "jaa": "long aa",
+          "ba": "ba",
+          "ra": "ra",
+          "ye": "linking eh",
+          "she": "she",
+          "naa": "long aa",
+          "kar": "kar",
+          "dan": "dan",
+          "e": "linking eh",
+          "a": "a",
+          "man": "man",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "Is there a dangerous undertow?",
+        "persian": "آیا جریان آب های خطرناک وجود دارد؟",
+        "audio": "Isthereadangerousundertow.mp3",
+        "pronunciation": "aayaa jaryaan-e aab-haaye khatarnak vojud daarad",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "ja": "ja",
+          "ryaan": "ryaan",
+          "e": "linking eh",
+          "aab": "long aa",
+          "haa": "long aa",
+          "ye": "linking eh",
+          "kha": "kha",
+          "tar": "tar",
+          "nak": "nak",
+          "vo": "vo",
+          "jud": "jud",
+          "daa": "daa",
+          "rad": "rad"
+        }
+      },
+      {
+        "english": "What time is high tide?",
+        "persian": "چه زمانی جزر و مد بالا است؟",
+        "audio": "Whattimeishightide.mp3",
+        "pronunciation": "che zamani jazr o mad-e baalaa ast",
+        "breakdown": {
+          "che": "che",
+          "za": "za",
+          "ma": "ma",
+          "ni": "ni",
+          "jazr": "jazr",
+          "o": "o",
+          "mad": "mad",
+          "e": "linking eh",
+          "baa": "long aa",
+          "laa": "long aa",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "What time is low tide?",
+        "persian": "چه زمانی جزر و مد کم است؟",
+        "audio": "Whattimeislowtide.mp3",
+        "pronunciation": "che zamani jazr o mad-e kam ast",
+        "breakdown": {
+          "che": "che",
+          "za": "za",
+          "ma": "ma",
+          "ni": "ni",
+          "jazr": "jazr",
+          "o": "o",
+          "mad": "mad",
+          "e": "linking eh",
+          "kam": "kam",
+          "ast": "ast"
+        }
+      },
+      {
+        "english": "Is there a strong current?",
+        "persian": "آیا یک جریان قوی وجود دارد؟",
+        "audio": "Isthereastrongcurrent.mp3",
+        "pronunciation": "aayaa yek jaryaan-e ghavi vojud daarad",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "yek": "yek",
+          "ja": "ja",
+          "ryaan": "ryaan",
+          "e": "linking eh",
+          "gha": "gha",
+          "vi": "vi",
+          "vo": "vo",
+          "jud": "jud",
+          "daa": "daa",
+          "rad": "rad"
+        }
+      },
+      {
+        "english": "I am going for a walk",
+        "persian": "من می خواهم به پیاده روی بروم",
+        "audio": "Iamgoingforawalk.mp3",
+        "pronunciation": "man mikhaaham be piadeh rooy beravam",
+        "breakdown": {
+          "man": "man",
+          "mi": "mi",
+          "khaa": "long aa",
+          "ham": "ham",
+          "be": "be",
+          "pia": "pia",
+          "deh": "deh",
+          "rooy": "rooy",
+          "be": "be",
+          "ra": "ra",
+          "vam": "vam"
+        }
+      },
+      {
+        "english": "Can we dive here without danger?",
+        "persian": "آیا می توانیم در اینجا بدون خطر شیرجه بزنیم؟",
+        "audio": "Canwediveherewithoutdanger.mp3",
+        "pronunciation": "aayaa mitavaanim dar injaa bedoon-e khatar shirejeh bezanim",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "mi": "mi",
+          "ta": "ta",
+          "vaa": "long aa",
+          "nim": "nim",
+          "dar": "dar",
+          "in": "in",
+          "jaa": "long aa",
+          "be": "be",
+          "doon": "doon",
+          "e": "linking eh",
+          "kha": "kha",
+          "tar": "tar",
+          "shi": "shi",
+          "re": "re",
+          "jeh": "jeh",
+          "be": "be",
+          "za": "za",
+          "nim": "nim"
+        }
+      },
+      {
+        "english": "How do I get to the island?",
+        "persian": "چگونه می توانم به جزیره بروم؟",
+        "audio": "HowdoIgettotheisland.mp3",
+        "pronunciation": "chegooneh mitavaanam be jazireh beravam",
+        "breakdown": {
+          "che": "che",
+          "goo": "goo",
+          "neh": "neh",
+          "mi": "mi",
+          "ta": "ta",
+          "vaa": "long aa",
+          "nam": "nam",
+          "be": "be",
+          "ja": "ja",
+          "zi": "zi",
+          "reh": "reh",
+          "be": "be",
+          "ra": "ra",
+          "vam": "vam"
+        }
+      },
+      {
+        "english": "Is there a boat that can take us there?",
+        "persian": "آیا قایقی هست که ما را به آنجا ببرد؟",
+        "audio": "Isthereaboatthatcantakeusthere.mp3",
+        "pronunciation": "aayaa ghaayaghi hast ke maa ra be aanjaa bebarad",
+        "breakdown": {
+          "aa": "long aa",
+          "yaa": "yaa",
+          "ghaa": "ghaa",
+          "ya": "ya",
+          "ghi": "ghi",
+          "hast": "hast",
+          "ke": "ke",
+          "maa": "long aa",
+          "ra": "ra",
+          "be": "be",
+          "aan": "aan",
+          "jaa": "long aa",
+          "be": "be",
+          "bar": "bar",
+          "ad": "ad"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 28",
+    "lesson_name": "Ocean animals and fish",
+    "words": [
+      {
+        "english": "Seashell",
+        "persian": "صدف حلزونی یا خرچنگ",
+        "audio": "Seashell.mp3",
+        "pronunciation": "sadaf-e halzooni ya kharchang",
+        "breakdown": {
+          "sa": "sa",
+          "daf": "daf",
+          "e": "linking eh",
+          "hal": "hal",
+          "zoo": "long oo",
+          "ni": "nee",
+          "ya": "ya",
+          "khar": "khar",
+          "chang": "chang"
+        }
+      },
+      {
+        "english": "Seahorse",
+        "persian": "اسب دریایی",
+        "audio": "Seahorse.mp3",
+        "pronunciation": "asb-e daryaa-ee",
+        "breakdown": {
+          "asb": "asb",
+          "e": "linking eh",
+          "dar": "dar",
+          "yaa": "long aa",
+          "ee": "ee"
+        }
+      },
+      {
+        "english": "Whale",
+        "persian": "نهنگ",
+        "audio": "Whale.mp3",
+        "pronunciation": "nahang",
+        "breakdown": { "na": "na", "hang": "hang" }
+      },
+      {
+        "english": "Crab",
+        "persian": "خرچنگ",
+        "audio": "Crab3.mp3",
+        "pronunciation": "kharchang",
+        "breakdown": { "khar": "khar", "chang": "chang" }
+      },
+      {
+        "english": "Dolphin",
+        "persian": "دلفین",
+        "audio": "Dolphin.mp3",
+        "pronunciation": "delfin",
+        "breakdown": { "del": "del", "fin": "fin" }
+      },
+      {
+        "english": "Seal",
+        "persian": "شیر دریایی",
+        "audio": "Seal.mp3",
+        "pronunciation": "shir-e daryaa-ee",
+        "breakdown": {
+          "shir": "shir",
+          "e": "linking eh",
+          "dar": "dar",
+          "yaa": "long aa",
+          "ee": "ee"
+        }
+      },
+      {
+        "english": "Starfish",
+        "persian": "ستاره دریایی",
+        "audio": "Starfish.mp3",
+        "pronunciation": "setaareh-e daryaa-ee",
+        "breakdown": {
+          "se": "se",
+          "taa": "long aa",
+          "reh": "reh",
+          "e": "linking eh",
+          "dar": "dar",
+          "yaa": "long aa",
+          "ee": "ee"
+        }
+      },
+      {
+        "english": "Fish",
+        "persian": "ماهی",
+        "audio": "Fish2.mp3",
+        "pronunciation": "maahi",
+        "breakdown": { "maa": "long aa", "hi": "hee" }
+      },
+      {
+        "english": "Shark",
+        "persian": "کوسه",
+        "audio": "Shark3.mp3",
+        "pronunciation": "kooseh",
+        "breakdown": { "koo": "long oo", "seh": "seh" }
+      },
+      {
+        "english": "Piranha",
+        "persian": "پیرانا",
+        "audio": "Piranha.mp3",
+        "pronunciation": "piraana",
+        "breakdown": { "pi": "pi", "raa": "long aa", "na": "na" }
+      },
+      {
+        "english": "Jellyfish",
+        "persian": "عروس دریایی",
+        "audio": "Jellyfish.mp3",
+        "pronunciation": "aroos-e daryaa-ee",
+        "breakdown": {
+          "a": "a",
+          "roos": "roos",
+          "e": "linking eh",
+          "dar": "dar",
+          "yaa": "long aa",
+          "ee": "ee"
+        }
+      },
+      {
+        "english": "Shrimp",
+        "persian": "میگو",
+        "audio": "Shrimp2.mp3",
+        "pronunciation": "meygoo",
+        "breakdown": { "mey": "mey", "goo": "long oo" }
+      },
+      {
+        "english": "Goldfish",
+        "persian": "ماهی طلایی",
+        "audio": "Goldfish.mp3",
+        "pronunciation": "maahi-ye talaayi",
+        "breakdown": {
+          "maa": "long aa",
+          "hi": "hee",
+          "ye": "linking eh",
+          "ta": "ta",
+          "laa": "long aa",
+          "yi": "yee"
+        }
+      },
+      {
+        "english": "Walrus",
+        "persian": "گراز دریایی",
+        "audio": "Walrus.mp3",
+        "pronunciation": "goraz-e daryaa-ee",
+        "breakdown": {
+          "go": "go",
+          "raz": "raz",
+          "e": "linking eh",
+          "dar": "dar",
+          "yaa": "long aa",
+          "ee": "ee"
+        }
+      },
+      {
+        "english": "Octopus",
+        "persian": "اختاپوس",
+        "audio": "Octopus.mp3",
+        "pronunciation": "okhtaapus",
+        "breakdown": { "okh": "okh", "taa": "long aa", "poos": "poos" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 29",
+    "lesson_name": "Farm animals",
+    "words": [
+      {
+        "english": "Animals",
+        "persian": "حیوانات",
+        "audio": "Animals.mp3",
+        "pronunciation": "heyvaanaat",
+        "breakdown": { "hey": "hey", "vaa": "long aa", "naat": "naat" }
+      },
+      {
+        "english": "Rabbit",
+        "persian": "خرگوش",
+        "audio": "Rabbit.mp3",
+        "pronunciation": "khargush",
+        "breakdown": { "khar": "khar", "gush": "gush" }
+      },
+      {
+        "english": "Hen",
+        "persian": "مرغ",
+        "audio": "Hen.mp3",
+        "pronunciation": "morgh",
+        "breakdown": { "morgh": "morgh" }
+      },
+      {
+        "english": "Rooster",
+        "persian": "خروس",
+        "audio": "Rooster.mp3",
+        "pronunciation": "khorus",
+        "breakdown": { "kho": "kho", "rus": "rus" }
+      },
+      {
+        "english": "Horse",
+        "persian": "اسب",
+        "audio": "Horse.mp3",
+        "pronunciation": "asb",
+        "breakdown": { "asb": "asb" }
+      },
+      {
+        "english": "Chicken",
+        "persian": "جوجه",
+        "audio": "Chicken2.mp3",
+        "pronunciation": "jojeh",
+        "breakdown": { "jo": "jo", "jeh": "jeh" }
+      },
+      {
+        "english": "Pig",
+        "persian": "خوک",
+        "audio": "Pig.mp3",
+        "pronunciation": "khook",
+        "breakdown": { "khoo": "long oo", "k": "k" }
+      },
+      {
+        "english": "Cow",
+        "persian": "گاو",
+        "audio": "Cow.mp3",
+        "pronunciation": "gaav",
+        "breakdown": { "gaa": "long aa", "v": "v" }
+      },
+      {
+        "english": "Sheep",
+        "persian": "گوسفند",
+        "audio": "Sheep.mp3",
+        "pronunciation": "gusfand",
+        "breakdown": { "gus": "gus", "fand": "fand" }
+      },
+      {
+        "english": "Goat",
+        "persian": "بز",
+        "audio": "Goat.mp3",
+        "pronunciation": "boz",
+        "breakdown": { "boz": "boz" }
+      },
+      {
+        "english": "Llama",
+        "persian": "لاما",
+        "audio": "Llama.mp3",
+        "pronunciation": "laama",
+        "breakdown": { "laa": "long aa", "ma": "ma" }
+      },
+      {
+        "english": "Donkey",
+        "persian": "خر",
+        "audio": "Donkey.mp3",
+        "pronunciation": "khar",
+        "breakdown": { "khar": "khar" }
+      },
+      {
+        "english": "Camel",
+        "persian": "شتر",
+        "audio": "Camel.mp3",
+        "pronunciation": "shotor",
+        "breakdown": { "sho": "sho", "tor": "tor" }
+      },
+      {
+        "english": "Cat",
+        "persian": "گربه",
+        "audio": "Cat.mp3",
+        "pronunciation": "gorbeh",
+        "breakdown": { "gor": "gor", "beh": "beh" }
+      },
+      {
+        "english": "Dog",
+        "persian": "سگ",
+        "audio": "Dog.mp3",
+        "pronunciation": "sag",
+        "breakdown": { "sag": "sag" }
+      },
+      {
+        "english": "Mouse",
+        "persian": "موش",
+        "audio": "Mouse.mp3",
+        "pronunciation": "moosh",
+        "breakdown": { "moosh": "moosh" }
+      },
+      {
+        "english": "Frog",
+        "persian": "قورباغه",
+        "audio": "Frog.mp3",
+        "pronunciation": "ghoorbaagheh",
+        "breakdown": { "ghoor": "ghoor", "baa": "long aa", "gheh": "gheh" }
+      },
+      {
+        "english": "Rat",
+        "persian": "موش",
+        "audio": "Rat.mp3",
+        "pronunciation": "moosh",
+        "breakdown": { "moosh": "moosh" }
+      },
+      {
+        "english": "Barn",
+        "persian": "طویله",
+        "audio": "Barn.mp3",
+        "pronunciation": "tavileh",
+        "breakdown": { "ta": "ta", "vi": "vi", "leh": "leh" }
+      },
+      {
+        "english": "Farm",
+        "persian": "مزرعه",
+        "audio": "Farm.mp3",
+        "pronunciation": "mazra'eh",
+        "breakdown": { "maz": "maz", "ra": "ra", "eh": "eh" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 30",
+    "lesson_name": "Wild animals",
+    "words": [
+      {
+        "english": "Turtle",
+        "persian": "لاک پشت",
+        "audio": "Turtle.mp3",
+        "pronunciation": "laak posht",
+        "breakdown": { "laak": "long aa", "posht": "posht" }
+      },
+      {
+        "english": "Monkey",
+        "persian": "میمون",
+        "audio": "Monkey.mp3",
+        "pronunciation": "meymun",
+        "breakdown": { "mey": "mey", "mun": "mun" }
+      },
+      {
+        "english": "Lizard",
+        "persian": "مارمولک",
+        "audio": "Lizard.mp3",
+        "pronunciation": "maarmoolak",
+        "breakdown": { "maar": "long aa", "moolak": "moolak" }
+      },
+      {
+        "english": "Crocodile",
+        "persian": "تمساح",
+        "audio": "Crocodile.mp3",
+        "pronunciation": "temsah",
+        "breakdown": { "tem": "tem", "sah": "sah" }
+      },
+      {
+        "english": "Bat",
+        "persian": "خفاش",
+        "audio": "Bat.mp3",
+        "pronunciation": "khefash",
+        "breakdown": { "khe": "khe", "fash": "fash" }
+      },
+      {
+        "english": "Lion",
+        "persian": "شیر",
+        "audio": "Lion.mp3",
+        "pronunciation": "shir",
+        "breakdown": { "shir": "shir" }
+      },
+      {
+        "english": "Tiger",
+        "persian": "ببر",
+        "audio": "Tiger.mp3",
+        "pronunciation": "babr",
+        "breakdown": { "babr": "babr" }
+      },
+      {
+        "english": "Elephant",
+        "persian": "فیل",
+        "audio": "Elephant.mp3",
+        "pronunciation": "feel",
+        "breakdown": { "feel": "feel" }
+      },
+      {
+        "english": "Snake",
+        "persian": "مار",
+        "audio": "Snake.mp3",
+        "pronunciation": "maar",
+        "breakdown": { "maar": "long aa" }
+      },
+      {
+        "english": "Deer",
+        "persian": "گوزن",
+        "audio": "Deer.mp3",
+        "pronunciation": "gavazn",
+        "breakdown": { "ga": "ga", "vazn": "vazn" }
+      },
+      {
+        "english": "Squirrel",
+        "persian": "سنجاب",
+        "audio": "Squirrel.mp3",
+        "pronunciation": "sanjab",
+        "breakdown": { "san": "san", "jab": "jab" }
+      },
+      {
+        "english": "Kangaroo",
+        "persian": "کانگرو",
+        "audio": "Kangaroo.mp3",
+        "pronunciation": "kaangaroo",
+        "breakdown": { "kaa": "long aa", "ngaroo": "ngaroo" }
+      },
+      {
+        "english": "Hippopotamus",
+        "persian": "اسب آبی",
+        "audio": "Hippopotamus.mp3",
+        "pronunciation": "asb aabi",
+        "breakdown": { "asb": "asb", "aa": "long aa", "bi": "bi" }
+      },
+      {
+        "english": "Giraffe",
+        "persian": "زرافه",
+        "audio": "Giraffe.mp3",
+        "pronunciation": "zaraafeh",
+        "breakdown": { "za": "za", "raa": "long aa", "feh": "feh" }
+      },
+      {
+        "english": "Fox",
+        "persian": "روباه",
+        "audio": "Fox.mp3",
+        "pronunciation": "roobaah",
+        "breakdown": { "roo": "roo", "baah": "long aa" }
+      },
+      {
+        "english": "Wolf",
+        "persian": "گرگ",
+        "audio": "Wolf.mp3",
+        "pronunciation": "gorg",
+        "breakdown": { "gorg": "gorg" }
+      },
+      {
+        "english": "Alligator",
+        "persian": "تمساح",
+        "audio": "Alligator.mp3",
+        "pronunciation": "temsah",
+        "breakdown": { "tem": "tem", "sah": "sah" }
+      },
+      {
+        "english": "Bear",
+        "persian": "خرس",
+        "audio": "Bear.mp3",
+        "pronunciation": "khers",
+        "breakdown": { "khers": "khers" }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 31",
+    "lesson_name": "Insects",
+    "words": [
+      {
+        "english": "Bee",
+        "persian": "زنبور عسل",
+        "audio": "Bee.mp3",
+        "pronunciation": "zanboor-e asal",
+        "breakdown": {
+          "zanboor": "like 'zan-boor', 'oo' as in 'moon'",
+          "e": "like a short 'eh' linking sound",
+          "asal": "like 'a-sal', short 'a'"
+        }
+      },
+      {
+        "english": "Mosquito",
+        "persian": "پشه",
+        "audio": "Mosquito.mp3",
+        "pronunciation": "pasheh",
+        "breakdown": {
+          "pa": "like 'pa' in 'pat'",
+          "sheh": "like 'sheh', 'sh' as in 'shoe'"
+        }
+      },
+      {
+        "english": "Spider",
+        "persian": "عنکبوت",
+        "audio": "Spider.mp3",
+        "pronunciation": "ankaboot",
+        "breakdown": {
+          "an": "like 'an' in 'ant'",
+          "ka": "like 'ka' in 'cat'",
+          "boot": "like 'boot', long 'oo'"
+        }
+      },
+      {
+        "english": "Grasshopper",
+        "persian": "ملخ",
+        "audio": "Grasshopper.mp3",
+        "pronunciation": "malakh",
+        "breakdown": {
+          "ma": "like 'ma' in 'man'",
+          "lakh": "like 'lakh', 'kh' is throaty (like 'loch')"
+        }
+      },
+      {
+        "english": "Wasp",
+        "persian": "زنبور",
+        "audio": "Wasp.mp3",
+        "pronunciation": "zanboor",
+        "breakdown": {
+          "zan": "like 'zan'",
+          "boor": "like 'boor', 'oo' as in 'moon'"
+        }
+      },
+      {
+        "english": "Dragonfly",
+        "persian": "سنجاقک",
+        "audio": "Dragonfly.mp3",
+        "pronunciation": "sanjaaghak",
+        "breakdown": {
+          "san": "like 'san'",
+          "jaagh": "like 'jaagh', 'gh' is deep/throaty",
+          "ak": "like 'ak'"
+        }
+      },
+      {
+        "english": "Worm",
+        "persian": "کرم",
+        "audio": "Worm.mp3",
+        "pronunciation": "kerem",
+        "breakdown": {
+          "ke": "like 'ke' in 'kept'",
+          "rem": "like 'rem'"
+        }
+      },
+      {
+        "english": "Butterfly",
+        "persian": "پروانه",
+        "audio": "Butterfly.mp3",
+        "pronunciation": "parvaaneh",
+        "breakdown": {
+          "par": "like 'par'",
+          "vaa": "like 'vaa', long 'aa'",
+          "neh": "like 'neh'"
+        }
+      },
+      {
+        "english": "Ladybug",
+        "persian": "کفشدوزک",
+        "audio": "Ladybug.mp3",
+        "pronunciation": "kafshdoozak",
+        "breakdown": {
+          "kafsh": "like 'kafsh', 'sh' as in 'shoe'",
+          "doo": "like 'doo', long 'oo'",
+          "zak": "like 'zak'"
+        }
+      },
+      {
+        "english": "Ant",
+        "persian": "مورچه",
+        "audio": "Ant.mp3",
+        "pronunciation": "moorcheh",
+        "breakdown": {
+          "moor": "like 'moor', long 'oo'",
+          "cheh": "like 'cheh', 'ch' as in 'chess'"
+        }
+      },
+      {
+        "english": "Caterpillar",
+        "persian": "هزارپا",
+        "audio": "Caterpillar.mp3",
+        "pronunciation": "hezarpa",
+        "breakdown": {
+          "he": "like 'he' in 'hen'",
+          "zar": "like 'zar'",
+          "pa": "like 'pa'"
+        }
+      },
+      {
+        "english": "Cricket",
+        "persian": "جیرجیرک",
+        "audio": "Cricket3.mp3",
+        "pronunciation": "jirjirak",
+        "breakdown": {
+          "jir": "like 'jeer'",
+          "ji": "like 'jee'",
+          "rak": "like 'rak'"
+        }
+      },
+      {
+        "english": "Cockroach",
+        "persian": "سوسک خانه",
+        "audio": "Cockroach.mp3",
+        "pronunciation": "soosk-e khaaneh",
+        "breakdown": {
+          "soosk": "like 'soosk', long 'oo'",
+          "e": "short linking 'eh'",
+          "khaa": "like 'khaa', long 'aa', throaty 'kh'",
+          "neh": "like 'neh'"
+        }
+      },
+      {
+        "english": "Beetle",
+        "persian": "سوسک",
+        "audio": "Beetle.mp3",
+        "pronunciation": "soosk",
+        "breakdown": {
+          "soosk": "like 'soosk', long 'oo'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 32",
+    "lesson_name": "Types of birds",
+    "words": [
+      {
+        "english": "Bird",
+        "persian": "پرنده",
+        "audio": "Bird.mp3",
+        "pronunciation": "parandeh",
+        "breakdown": {
+          "pa": "like 'pa' in 'pat'",
+          "ran": "like 'ran'",
+          "deh": "like 'deh'"
+        }
+      },
+      {
+        "english": "Duck",
+        "persian": "اردک",
+        "audio": "Duck2.mp3",
+        "pronunciation": "ordak",
+        "breakdown": {
+          "or": "like 'or' in 'for'",
+          "dak": "like 'dak'"
+        }
+      },
+      {
+        "english": "Peacock",
+        "persian": "طاووس",
+        "audio": "Peacock.mp3",
+        "pronunciation": "taavoos",
+        "breakdown": {
+          "taa": "like 'taa', long 'aa'",
+          "voos": "like 'voos', 'oo' as in 'moon'"
+        }
+      },
+      {
+        "english": "Crow",
+        "persian": "کلاغ",
+        "audio": "Crow.mp3",
+        "pronunciation": "kalaagh",
+        "breakdown": {
+          "ka": "like 'ka'",
+          "laagh": "like 'laagh', 'gh' is throaty"
+        }
+      },
+      {
+        "english": "Pigeon",
+        "persian": "کفتر",
+        "audio": "Pigeon.mp3",
+        "pronunciation": "kaftar",
+        "breakdown": {
+          "kaf": "like 'kaf'",
+          "tar": "like 'tar'"
+        }
+      },
+      {
+        "english": "Turkey",
+        "persian": "بوقلمون",
+        "audio": "Turkey3.mp3",
+        "pronunciation": "booghalamoon",
+        "breakdown": {
+          "boo": "like 'boo', long 'oo'",
+          "gha": "like 'gha', deep/throaty",
+          "la": "like 'la'",
+          "moon": "like 'moon'"
+        }
+      },
+      {
+        "english": "Goose",
+        "persian": "غاز",
+        "audio": "Goose.mp3",
+        "pronunciation": "ghaaz",
+        "breakdown": {
+          "ghaaz": "like 'ghaaz', deep 'gh', long 'aa'"
+        }
+      },
+      {
+        "english": "Owl",
+        "persian": "جغد",
+        "audio": "Owl.mp3",
+        "pronunciation": "joghd",
+        "breakdown": {
+          "joghd": "like 'joghd', 'gh' is throaty"
+        }
+      },
+      {
+        "english": "Ostrich",
+        "persian": "شترمرغ",
+        "audio": "Ostrich.mp3",
+        "pronunciation": "shotormorgh",
+        "breakdown": {
+          "sho": "like 'sho'",
+          "tor": "like 'tor'",
+          "morgh": "like 'morgh', throaty 'gh'"
+        }
+      },
+      {
+        "english": "Parrot",
+        "persian": "طوطی",
+        "audio": "Parrot.mp3",
+        "pronunciation": "tooti",
+        "breakdown": {
+          "too": "like 'too', long 'oo'",
+          "ti": "like 'tee'"
+        }
+      },
+      {
+        "english": "Stork",
+        "persian": "لک لک",
+        "audio": "Stork.mp3",
+        "pronunciation": "lak lak",
+        "breakdown": {
+          "lak": "like 'lak'",
+          "lak2": "repeat 'lak'"
+        }
+      },
+      {
+        "english": "Eagle",
+        "persian": "عقاب",
+        "audio": "Eagle.mp3",
+        "pronunciation": "oghaab",
+        "breakdown": {
+          "o": "like 'o'",
+          "ghaab": "like 'ghaab', deep 'gh', long 'aa'"
+        }
+      },
+      {
+        "english": "Hawk",
+        "persian": "شاهین",
+        "audio": "Hawk.mp3",
+        "pronunciation": "shaahin",
+        "breakdown": {
+          "shaa": "like 'shaa', long 'aa'",
+          "hin": "like 'heen'"
+        }
+      },
+      {
+        "english": "Flamingo",
+        "persian": "فلامینگو",
+        "audio": "Flamingo.mp3",
+        "pronunciation": "felaamingo",
+        "breakdown": {
+          "fe": "like 'fe'",
+          "laa": "like 'laa', long 'aa'",
+          "mingo": "like 'ming-go'"
+        }
+      },
+      {
+        "english": "Seagull",
+        "persian": "مرغ دریایی",
+        "audio": "Seagull.mp3",
+        "pronunciation": "morgh-e daryaayi",
+        "breakdown": {
+          "morgh": "like 'morgh', throaty 'gh'",
+          "e": "short 'eh' linker",
+          "dar": "like 'dar'",
+          "yaa": "like 'yaa', long 'aa'",
+          "yi": "like 'yee'"
+        }
+      },
+      {
+        "english": "Penguin",
+        "persian": "پنگوئن",
+        "audio": "Penguin.mp3",
+        "pronunciation": "pengooen",
+        "breakdown": {
+          "pen": "like 'pen'",
+          "goo": "like 'goo', long 'oo'",
+          "en": "like 'en'"
+        }
+      },
+      {
+        "english": "Swan",
+        "persian": "قو",
+        "audio": "Swan.mp3",
+        "pronunciation": "ghoo",
+        "breakdown": {
+          "ghoo": "like 'ghoo', deep 'gh', long 'oo'"
+        }
+      },
+      {
+        "english": "Woodpecker",
+        "persian": "دارکوب",
+        "audio": "Woodpecker.mp3",
+        "pronunciation": "daarkoob",
+        "breakdown": {
+          "daar": "like 'daar', long 'aa'",
+          "koob": "like 'koob', long 'oo'"
+        }
+      },
+      {
+        "english": "Pelican",
+        "persian": "مرغ ماهیخوار",
+        "audio": "Pelican.mp3",
+        "pronunciation": "morgh-e maahikhaar",
+        "breakdown": {
+          "morgh": "like 'morgh', throaty 'gh'",
+          "e": "short 'eh'",
+          "maa": "like 'maa', long 'aa'",
+          "hi": "like 'hee'",
+          "khaar": "like 'khaar', 'kh' throaty"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 33",
+    "lesson_name": "At the zoo",
+    "words": [
+      {
+        "english": "Can the parrot talk?",
+        "persian": "آیا طوطی می تواند صحبت کند؟",
+        "audio": "Cantheparrottalk.mp3",
+        "pronunciation": "ayaa toot-i mi-tavanad sohbat konad?",
+        "breakdown": {
+          "a": "like 'a' in 'cat'",
+          "yaa": "like 'yaa', long 'aa'",
+          "toot": "like 'toot', long 'oo'",
+          "i": "like 'ee'",
+          "mi": "like 'mee'",
+          "tavanad": "ta-va-nad, short vowels",
+          "sohbat": "soh-bat, short 'o', 'a' as in 'cat'",
+          "konad": "ko-nad, 'o' as in 'cot'"
+        }
+      },
+      {
+        "english": "Is the snake poisonous?",
+        "persian": "آیا مار سمی است؟",
+        "audio": "Isthesnakepoisonous.mp3",
+        "pronunciation": "ayaa maar sammi ast?",
+        "breakdown": {
+          "a": "like 'a' in 'cat'",
+          "yaa": "like 'yaa', long 'aa'",
+          "maar": "like 'maar', long 'aa'",
+          "sammi": "sam-mi, short 'a', double 'm'",
+          "ast": "like 'ast', 'a' as in 'cat'"
+        }
+      },
+      {
+        "english": "Are there always so many flies?",
+        "persian": "آیا همیشه مگس ها زیاد هستند؟",
+        "audio": "Aretherealwayssomanyflies.mp3",
+        "pronunciation": "ayaa hamisheh magas-ha ziyaad hastand?",
+        "breakdown": {
+          "a": "like 'a' in 'cat'",
+          "yaa": "long 'aa'",
+          "ha": "like 'ha'",
+          "mi": "like 'mee'",
+          "sheh": "like 'sheh'",
+          "ma": "like 'ma'",
+          "gas": "like 'gas'",
+          "ha": "plural marker",
+          "zi": "like 'zee'",
+          "yaad": "like 'yaad', long 'aa'",
+          "has": "like 'has'",
+          "tand": "like 'tand'"
+        }
+      },
+      {
+        "english": "What type of spider?",
+        "persian": "چه نوع از عنکبوت؟",
+        "audio": "Whattypeofspider.mp3",
+        "pronunciation": "che no'- az ankaboot?",
+        "breakdown": {
+          "che": "like 'che' in 'chess'",
+          "no": "like 'no'",
+          "'": "pause",
+          "az": "like 'az', short 'a'",
+          "an": "like 'an'",
+          "ka": "like 'ka'",
+          "boot": "like 'boot', long 'oo'"
+        }
+      },
+      {
+        "english": "Cockroaches are dirty",
+        "persian": "سوسک ها کثیف هستند",
+        "audio": "Cockroachesaredirty.mp3",
+        "pronunciation": "soosk-ha kasif hastand",
+        "breakdown": {
+          "soosk": "like 'soosk', long 'oo'",
+          "ha": "plural marker",
+          "ka": "like 'ka'",
+          "sif": "like 'seef'",
+          "has": "like 'has'",
+          "tand": "like 'tand'"
+        }
+      },
+      {
+        "english": "This is mosquito repellent",
+        "persian": "این دافع پشه است",
+        "audio": "Thisismosquitorepellent.mp3",
+        "pronunciation": "in daafe'-e pasheh ast",
+        "breakdown": {
+          "in": "like 'in'",
+          "daa": "like 'daa', long 'aa'",
+          "fe": "like 'fe'",
+          "e": "connector 'eh'",
+          "pa": "like 'pa'",
+          "sheh": "like 'sheh'",
+          "ast": "like 'ast', 'a' as in 'cat'"
+        }
+      },
+      {
+        "english": "This is insect repellent",
+        "persian": "این مواد دافع حشرات است",
+        "audio": "Thisisinsectrepellent.mp3",
+        "pronunciation": "in mavaad daafe'-e hashrat ast",
+        "breakdown": {
+          "in": "like 'in'",
+          "ma": "like 'ma'",
+          "vaad": "like 'vaad', long 'aa'",
+          "daa": "like 'daa', long 'aa'",
+          "fe": "like 'fe'",
+          "e": "connector",
+          "hash": "like 'hash'",
+          "rat": "like 'rat'",
+          "ast": "like 'ast'"
+        }
+      },
+      {
+        "english": "Do you have a dog?",
+        "persian": "آیا شما سگ دارید؟",
+        "audio": "Doyouhaveadog.mp3",
+        "pronunciation": "ayaa shomaa sag daarid?",
+        "breakdown": {
+          "a": "like 'a' in 'cat'",
+          "yaa": "long 'aa'",
+          "sho": "like 'sho'",
+          "maa": "like 'maa', long 'aa'",
+          "sag": "like 'sag'",
+          "daa": "like 'daa', long 'aa'",
+          "rid": "like 'reed'"
+        }
+      },
+      {
+        "english": "I am allergic to cats",
+        "persian": "من به گربه آلرژی دارم",
+        "audio": "Iamallergictocats.mp3",
+        "pronunciation": "man be gorbeh aalerzhi daaram",
+        "breakdown": {
+          "man": "like 'man'",
+          "be": "like 'beh'",
+          "gor": "like 'gor'",
+          "beh": "like 'beh'",
+          "aa": "long 'aa'",
+          "ler": "like 'ler'",
+          "zhi": "like 'zhee'",
+          "daa": "like 'daa', long 'aa'",
+          "ram": "like 'ram'"
+        }
+      },
+      {
+        "english": "I have a bird",
+        "persian": "من یک پرنده دارم",
+        "audio": "Ihaveabird.mp3",
+        "pronunciation": "man yek parandeh daaram",
+        "breakdown": {
+          "man": "like 'man'",
+          "yek": "like 'yek'",
+          "pa": "like 'pa'",
+          "ran": "like 'ran'",
+          "deh": "like 'deh'",
+          "daa": "like 'daa', long 'aa'",
+          "ram": "like 'ram'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 34",
+    "lesson_name": "Family members",
+    "words": [
+      {
+        "english": "Mother",
+        "persian": "مادر",
+        "audio": "Mother.mp3",
+        "pronunciation": "maadar",
+        "breakdown": {
+          "maa": "like 'maa', long 'aa'",
+          "dar": "like 'dar'"
+        }
+      },
+      {
+        "english": "Father",
+        "persian": "پدر",
+        "audio": "Father.mp3",
+        "pronunciation": "pedar",
+        "breakdown": {
+          "pe": "like 'pe' in 'pen'",
+          "dar": "like 'dar'"
+        }
+      },
+      {
+        "english": "Brother",
+        "persian": "برادر",
+        "audio": "Brother.mp3",
+        "pronunciation": "baraadar",
+        "breakdown": {
+          "ba": "like 'ba'",
+          "raa": "like 'raa', long 'aa'",
+          "dar": "like 'dar'"
+        }
+      },
+      {
+        "english": "Sister",
+        "persian": "خواهر",
+        "audio": "Sister.mp3",
+        "pronunciation": "khaahar",
+        "breakdown": {
+          "khaa": "like 'khaa', throaty 'kh', long 'aa'",
+          "har": "like 'har'"
+        }
+      },
+      {
+        "english": "Son",
+        "persian": "پسر",
+        "audio": "Son.mp3",
+        "pronunciation": "pesar",
+        "breakdown": {
+          "pe": "like 'pe' in 'pen'",
+          "sar": "like 'sar'"
+        }
+      },
+      {
+        "english": "Daughter",
+        "persian": "دختر",
+        "audio": "Daughter.mp3",
+        "pronunciation": "dokhtar",
+        "breakdown": {
+          "dokh": "like 'dokh', throaty 'kh'",
+          "tar": "like 'tar'"
+        }
+      },
+      {
+        "english": "Parents",
+        "persian": "والدین",
+        "audio": "Parents.mp3",
+        "pronunciation": "vaaledin",
+        "breakdown": {
+          "vaa": "like 'vaa', long 'aa'",
+          "le": "like 'le'",
+          "din": "like 'deen'"
+        }
+      },
+      {
+        "english": "Children",
+        "persian": "فرزندان",
+        "audio": "Children.mp3",
+        "pronunciation": "farzandaan",
+        "breakdown": {
+          "far": "like 'far'",
+          "zan": "like 'zan'",
+          "daan": "like 'daan', long 'aa'"
+        }
+      },
+      {
+        "english": "Child",
+        "persian": "فرزند",
+        "audio": "Child.mp3",
+        "pronunciation": "farzand",
+        "breakdown": {
+          "far": "like 'far'",
+          "zand": "like 'zand'"
+        }
+      },
+      {
+        "english": "Stepmother",
+        "persian": "نامادری",
+        "audio": "Stepmother.mp3",
+        "pronunciation": "naamadari",
+        "breakdown": {
+          "naa": "like 'naa', long 'aa'",
+          "maa": "like 'maa', long 'aa'",
+          "da": "like 'da'",
+          "ri": "like 'ree'"
+        }
+      },
+      {
+        "english": "Stepfather",
+        "persian": "ناپدری",
+        "audio": "Stepfather.mp3",
+        "pronunciation": "naapedari",
+        "breakdown": {
+          "naa": "like 'naa', long 'aa'",
+          "pe": "like 'pe'",
+          "da": "like 'da'",
+          "ri": "like 'ree'"
+        }
+      },
+      {
+        "english": "Stepsister",
+        "persian": "خواهر ناتنی",
+        "audio": "Stepsister.mp3",
+        "pronunciation": "khaahar-naatani",
+        "breakdown": {
+          "khaa": "like 'khaa', throaty 'kh', long 'aa'",
+          "har": "like 'har'",
+          "naa": "like 'naa', long 'aa'",
+          "ta": "like 'ta'",
+          "ni": "like 'nee'"
+        }
+      },
+      {
+        "english": "Stepbrother",
+        "persian": "برادر ناتنی",
+        "audio": "Stepbrother.mp3",
+        "pronunciation": "baraadar-naatani",
+        "breakdown": {
+          "ba": "like 'ba'",
+          "raa": "like 'raa', long 'aa'",
+          "dar": "like 'dar'",
+          "naa": "like 'naa', long 'aa'",
+          "ta": "like 'ta'",
+          "ni": "like 'nee'"
+        }
+      },
+      {
+        "english": "Son-in-law",
+        "persian": "داماد",
+        "audio": "Soninlaw.mp3",
+        "pronunciation": "daamaad",
+        "breakdown": {
+          "daa": "like 'daa', long 'aa'",
+          "maad": "like 'maad', long 'aa'"
+        }
+      },
+      {
+        "english": "Daughter-in-law",
+        "persian": "عروس",
+        "audio": "Daugherinlaw.mp3",
+        "pronunciation": "aroos",
+        "breakdown": {
+          "a": "like 'a' in 'car'",
+          "roos": "like 'roos', long 'oo'"
+        }
+      },
+      {
+        "english": "Wife",
+        "persian": "زن",
+        "audio": "Wife.mp3",
+        "pronunciation": "zan",
+        "breakdown": {
+          "zan": "like 'zan'"
+        }
+      },
+      {
+        "english": "Husband",
+        "persian": "شوهر",
+        "audio": "Husband.mp3",
+        "pronunciation": "shoohar",
+        "breakdown": {
+          "shoo": "like 'shoo', long 'oo'",
+          "har": "like 'har'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 35",
+    "lesson_name": "Extended family members",
+    "words": [
+      {
+        "english": "Grandparents",
+        "persian": "پدر بزرگ و مادربزرگ",
+        "audio": "Grandparents.mp3",
+        "pronunciation": "pedar bozorg va maadar bozorg",
+        "breakdown": {
+          "pe": "like 'pe' in 'pen'",
+          "dar": "like 'dar'",
+          "bo": "like 'bo'",
+          "zorg": "like 'zorg'",
+          "va": "like 'va', short 'a'",
+          "maa": "like 'maa', long 'aa'",
+          "dar": "like 'dar'",
+          "bo": "like 'bo'",
+          "zorg": "like 'zorg'"
+        }
+      },
+      {
+        "english": "Grandfather",
+        "persian": "پدربزرگ",
+        "audio": "Grandfather.mp3",
+        "pronunciation": "pedar bozorg",
+        "breakdown": {
+          "pe": "like 'pe'",
+          "dar": "like 'dar'",
+          "bo": "like 'bo'",
+          "zorg": "like 'zorg'"
+        }
+      },
+      {
+        "english": "Grandmother",
+        "persian": "مادربزرگ",
+        "audio": "Grandmother.mp3",
+        "pronunciation": "maadar bozorg",
+        "breakdown": {
+          "maa": "like 'maa', long 'aa'",
+          "dar": "like 'dar'",
+          "bo": "like 'bo'",
+          "zorg": "like 'zorg'"
+        }
+      },
+      {
+        "english": "Grandson",
+        "persian": "نوه پسری",
+        "audio": "Grandson.mp3",
+        "pronunciation": "naveh pesari",
+        "breakdown": {
+          "na": "like 'na'",
+          "veh": "like 'veh'",
+          "pe": "like 'pe'",
+          "sa": "like 'sa'",
+          "ri": "like 'ree'"
+        }
+      },
+      {
+        "english": "Granddaughter",
+        "persian": "نوه دختری",
+        "audio": "Granddaughter.mp3",
+        "pronunciation": "naveh dokhtari",
+        "breakdown": {
+          "na": "like 'na'",
+          "veh": "like 'veh'",
+          "dokh": "like 'dokh', throaty 'kh'",
+          "ta": "like 'ta'",
+          "ri": "like 'ree'"
+        }
+      },
+      {
+        "english": "Grandchildren",
+        "persian": "نوه ها",
+        "audio": "Grandchildren.mp3",
+        "pronunciation": "naveh-ha",
+        "breakdown": {
+          "na": "like 'na'",
+          "veh": "like 'veh'",
+          "ha": "plural marker, like 'ha'"
+        }
+      },
+      {
+        "english": "Grandchild",
+        "persian": "نوه",
+        "audio": "Grandchild.mp3",
+        "pronunciation": "naveh",
+        "breakdown": {
+          "na": "like 'na'",
+          "veh": "like 'veh'"
+        }
+      },
+      {
+        "english": "Aunt",
+        "persian": "عمه",
+        "audio": "Aunt.mp3",
+        "pronunciation": "ammeh",
+        "breakdown": {
+          "am": "like 'am'",
+          "meh": "like 'meh'"
+        }
+      },
+      {
+        "english": "Uncle",
+        "persian": "عمو",
+        "audio": "Uncle.mp3",
+        "pronunciation": "amoo",
+        "breakdown": {
+          "a": "like 'a' in 'car'",
+          "moo": "like 'moo', long 'oo'"
+        }
+      },
+      {
+        "english": "Cousin (female)",
+        "persian": "دختر عمو",
+        "audio": "Cousinfemale.mp3",
+        "pronunciation": "dokhtar amoo",
+        "breakdown": {
+          "dokh": "like 'dokh', throaty 'kh'",
+          "tar": "like 'tar'",
+          "a": "like 'a' in 'car'",
+          "moo": "like 'moo', long 'oo'"
+        }
+      },
+      {
+        "english": "Cousin (male)",
+        "persian": "پسر عمو",
+        "audio": "Cousinmale.mp3",
+        "pronunciation": "pesar amoo",
+        "breakdown": {
+          "pe": "like 'pe'",
+          "sar": "like 'sar'",
+          "a": "like 'a' in 'car'",
+          "moo": "like 'moo', long 'oo'"
+        }
+      },
+      {
+        "english": "Nephew",
+        "persian": "پسر برادر",
+        "audio": "Nephew.mp3",
+        "pronunciation": "pesar baraadar",
+        "breakdown": {
+          "pe": "like 'pe'",
+          "sar": "like 'sar'",
+          "ba": "like 'ba'",
+          "raa": "like 'raa', long 'aa'",
+          "dar": "like 'dar'"
+        }
+      },
+      {
+        "english": "Niece",
+        "persian": "دختر برادر",
+        "audio": "Niece.mp3",
+        "pronunciation": "dokhtar baraadar",
+        "breakdown": {
+          "dokh": "like 'dokh', throaty 'kh'",
+          "tar": "like 'tar'",
+          "ba": "like 'ba'",
+          "raa": "like 'raa', long 'aa'",
+          "dar": "like 'dar'"
+        }
+      },
+      {
+        "english": "Father-in-law",
+        "persian": "پدر زن",
+        "audio": "Fatherinlaw.mp3",
+        "pronunciation": "pedar zan",
+        "breakdown": {
+          "pe": "like 'pe'",
+          "dar": "like 'dar'",
+          "zan": "like 'zan'"
+        }
+      },
+      {
+        "english": "Mother-in-law",
+        "persian": "مادر زن",
+        "audio": "Motherinlaw.mp3",
+        "pronunciation": "maadar zan",
+        "breakdown": {
+          "maa": "like 'maa', long 'aa'",
+          "dar": "like 'dar'",
+          "zan": "like 'zan'"
+        }
+      },
+      {
+        "english": "Brother-in-law",
+        "persian": "برادر زن",
+        "audio": "Brotherinlaw.mp3",
+        "pronunciation": "baraadar zan",
+        "breakdown": {
+          "ba": "like 'ba'",
+          "raa": "like 'raa', long 'aa'",
+          "dar": "like 'dar'",
+          "zan": "like 'zan'"
+        }
+      },
+      {
+        "english": "Sister-in-law",
+        "persian": "خواهر زن",
+        "audio": "Sisterinlaw.mp3",
+        "pronunciation": "khaahar zan",
+        "breakdown": {
+          "khaa": "like 'khaa', throaty 'kh', long 'aa'",
+          "har": "like 'har'",
+          "zan": "like 'zan'"
+        }
+      },
+      {
+        "english": "Relative",
+        "persian": "فامیل",
+        "audio": "Relative.mp3",
+        "pronunciation": "faamil",
+        "breakdown": {
+          "faa": "like 'faa', long 'aa'",
+          "mil": "like 'mil'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 36",
+    "lesson_name": "Friends",
+    "words": [
+      {
+        "english": "People",
+        "persian": "اشخاص",
+        "audio": "People.mp3",
+        "pronunciation": "ashkhaas",
+        "breakdown": {
+          "ash": "like 'ash'",
+          "khaa": "like 'khaa', throaty 'kh', long 'aa'",
+          "s": "like 's'"
+        }
+      },
+      {
+        "english": "Mr.",
+        "persian": "آقای",
+        "audio": "Mr.mp3",
+        "pronunciation": "aaghaa-ye",
+        "breakdown": {
+          "aa": "like 'aa', long 'a'",
+          "ghaa": "like 'ghaa', throaty 'gh', long 'aa'",
+          "ye": "like 'yeh'"
+        }
+      },
+      {
+        "english": "Mrs.",
+        "persian": "خانم",
+        "audio": "Mrs.mp3",
+        "pronunciation": "khaanom",
+        "breakdown": {
+          "khaa": "like 'khaa', throaty 'kh', long 'aa'",
+          "nom": "like 'nom'"
+        }
+      },
+      {
+        "english": "Miss",
+        "persian": "دوشیزه",
+        "audio": "Miss.mp3",
+        "pronunciation": "dooshizeh",
+        "breakdown": {
+          "do": "like 'do'",
+          "oshi": "like 'o-shee'",
+          "zeh": "like 'zeh'"
+        }
+      },
+      {
+        "english": "Boy",
+        "persian": "پسر",
+        "audio": "Boy.mp3",
+        "pronunciation": "pesar",
+        "breakdown": {
+          "pe": "like 'pe'",
+          "sar": "like 'sar'"
+        }
+      },
+      {
+        "english": "Girl",
+        "persian": "دختر",
+        "audio": "Girl.mp3",
+        "pronunciation": "dokhtar",
+        "breakdown": {
+          "dokh": "like 'dokh', throaty 'kh'",
+          "tar": "like 'tar'"
+        }
+      },
+      {
+        "english": "Baby",
+        "persian": "نوزاد",
+        "audio": "Baby.mp3",
+        "pronunciation": "nozaad",
+        "breakdown": {
+          "no": "like 'no'",
+          "zaad": "like 'zaad', long 'aa'"
+        }
+      },
+      {
+        "english": "Woman",
+        "persian": "زن",
+        "audio": "Woman.mp3",
+        "pronunciation": "zan",
+        "breakdown": {
+          "zan": "like 'zan'"
+        }
+      },
+      {
+        "english": "Man",
+        "persian": "مرد",
+        "audio": "Man.mp3",
+        "pronunciation": "mard",
+        "breakdown": {
+          "mar": "like 'mar'",
+          "d": "like 'd'"
+        }
+      },
+      {
+        "english": "Friend (male)",
+        "persian": "دوست",
+        "audio": "Friendmale.mp3",
+        "pronunciation": "doost",
+        "breakdown": {
+          "do": "like 'do'",
+          "ost": "like 'ost'"
+        }
+      },
+      {
+        "english": "Friend (female)",
+        "persian": "دوست",
+        "audio": "Friendfemale.mp3",
+        "pronunciation": "doost",
+        "breakdown": {
+          "do": "like 'do'",
+          "ost": "like 'ost'"
+        }
+      },
+      {
+        "english": "Boyfriend",
+        "persian": "دوست پسر",
+        "audio": "Boyfriend.mp3",
+        "pronunciation": "doost pesar",
+        "breakdown": {
+          "do": "like 'do'",
+          "ost": "like 'ost'",
+          "pe": "like 'pe'",
+          "sar": "like 'sar'"
+        }
+      },
+      {
+        "english": "Girlfriend",
+        "persian": "دوست دختر",
+        "audio": "Girlfriend.mp3",
+        "pronunciation": "doost dokhtar",
+        "breakdown": {
+          "do": "like 'do'",
+          "ost": "like 'ost'",
+          "dokh": "like 'dokh', throaty 'kh'",
+          "tar": "like 'tar'"
+        }
+      },
+      {
+        "english": "Gentleman",
+        "persian": "مرد شریف و مودب",
+        "audio": "Gentleman.mp3",
+        "pronunciation": "mard sharif va modab",
+        "breakdown": {
+          "mar": "like 'mar'",
+          "d": "like 'd'",
+          "sha": "like 'sha'",
+          "rif": "like 'reef'",
+          "va": "like 'va'",
+          "mo": "like 'mo'",
+          "dab": "like 'dab'"
+        }
+      },
+      {
+        "english": "Lady",
+        "persian": "بانو",
+        "audio": "Lady.mp3",
+        "pronunciation": "banoo",
+        "breakdown": {
+          "ba": "like 'ba'",
+          "noo": "like 'noo', long 'oo'"
+        }
+      },
+      {
+        "english": "Neighbor (male)",
+        "persian": "همسایه",
+        "audio": "Neighbormale.mp3",
+        "pronunciation": "hamsaayeh",
+        "breakdown": {
+          "ham": "like 'ham'",
+          "saayeh": "like 'saay-eh', long 'aa'"
+        }
+      },
+      {
+        "english": "Neighbor (female)",
+        "persian": "همسایه",
+        "audio": "Neighborfemale.mp3",
+        "pronunciation": "hamsaayeh",
+        "breakdown": {
+          "ham": "like 'ham'",
+          "saayeh": "like 'saay-eh', long 'aa'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 37",
+    "lesson_name": "Family relations",
+    "words": [
+      {
+        "english": "Are you married?",
+        "persian": "متأهل هستید؟",
+        "audio": "Areyoumarried.mp3",
+        "pronunciation": "mota'ahhel hastid?",
+        "breakdown": {
+          "mo": "like 'mo'",
+          "ta": "like 'ta'",
+          "'ah": "like 'ah', soft",
+          "hel": "like 'hel'",
+          "has": "like 'has'",
+          "tid": "like 'teed'"
+        }
+      },
+      {
+        "english": "How long have you been married?",
+        "persian": "چه مدت است ازدواج کرده اید؟",
+        "audio": "Howlonghaveyoubeenmarried.mp3",
+        "pronunciation": "che moddat ast ezdevaj karde-id?",
+        "breakdown": {
+          "che": "like 'che', short 'e'",
+          "moddat": "like 'mod-dat', long 'o'",
+          "ast": "like 'ast', 'a' as in 'cat'",
+          "ez": "like 'ez'",
+          "de": "like 'de'",
+          "vaj": "like 'vaj'",
+          "kar": "like 'kar'",
+          "de": "like 'de'",
+          "id": "like 'eed'"
+        }
+      },
+      {
+        "english": "Do you have children?",
+        "persian": "بچه دارید؟",
+        "audio": "Doyouhavechildren.mp3",
+        "pronunciation": "bacheh darid?",
+        "breakdown": {
+          "ba": "like 'ba'",
+          "cheh": "like 'cheh'",
+          "da": "like 'da'",
+          "rid": "like 'reed'"
+        }
+      },
+      {
+        "english": "Is she your mother?",
+        "persian": "این خانم، مادرتون هستن؟",
+        "audio": "Issheyourmother.mp3",
+        "pronunciation": "in khanom, madar-e-toon hastan?",
+        "breakdown": {
+          "in": "like 'in'",
+          "kha": "like 'kha', throaty",
+          "nom": "like 'nom'",
+          "ma": "like 'ma'",
+          "dar": "like 'dar'",
+          "e": "like 'eh'",
+          "toon": "like 'toon', long 'oo'",
+          "has": "like 'has'",
+          "tan": "like 'tan'"
+        }
+      },
+      {
+        "english": "Who is your father?",
+        "persian": "پدر شما کیست؟",
+        "audio": "Whoisyourfather.mp3",
+        "pronunciation": "pedar-e shomaa kist?",
+        "breakdown": {
+          "pe": "like 'pe'",
+          "dar": "like 'dar'",
+          "e": "like 'eh'",
+          "sho": "like 'sho'",
+          "maa": "like 'maa', long 'a'",
+          "kist": "like 'keest'"
+        }
+      },
+      {
+        "english": "Do you have a girlfriend?",
+        "persian": "دوست دختر داری؟",
+        "audio": "Doyouhaveagirlfriend.mp3",
+        "pronunciation": "doost dokhtar darid?",
+        "breakdown": {
+          "do": "like 'do'",
+          "ost": "like 'ost'",
+          "dokh": "like 'dokh', throaty 'kh'",
+          "tar": "like 'tar'",
+          "da": "like 'da'",
+          "rid": "like 'reed'"
+        }
+      },
+      {
+        "english": "Do you have a boyfriend?",
+        "persian": "دوست پسر داری؟",
+        "audio": "Doyouhaveaboyfriend.mp3",
+        "pronunciation": "doost pesar darid?",
+        "breakdown": {
+          "do": "like 'do'",
+          "ost": "like 'ost'",
+          "pe": "like 'pe'",
+          "sar": "like 'sar'",
+          "da": "like 'da'",
+          "rid": "like 'reed'"
+        }
+      },
+      {
+        "english": "Are you related?",
+        "persian": "آیا شما با هم نسبت دارید؟",
+        "audio": "Areyourelated.mp3",
+        "pronunciation": "aayaa shomaa baa ham nesbat darid?",
+        "breakdown": {
+          "aa": "like 'aa', long 'a'",
+          "yaa": "like 'yaa', long 'a'",
+          "sho": "like 'sho'",
+          "maa": "like 'maa', long 'a'",
+          "baa": "like 'baa', long 'a'",
+          "ham": "like 'ham'",
+          "nes": "like 'nes'",
+          "bat": "like 'bat'",
+          "da": "like 'da'",
+          "rid": "like 'reed'"
+        }
+      },
+      {
+        "english": "How old are you?",
+        "persian": "چند ساله هستید؟",
+        "audio": "Howoldareyou.mp3",
+        "pronunciation": "chand saaleh hastid?",
+        "breakdown": {
+          "chand": "like 'chand'",
+          "saa": "like 'saa', long 'a'",
+          "leh": "like 'leh'",
+          "has": "like 'has'",
+          "tid": "like 'teed'"
+        }
+      },
+      {
+        "english": "How old is your sister?",
+        "persian": "خواهر شما چند ساله است؟",
+        "audio": "Howoldisyoursister.mp3",
+        "pronunciation": "khahar-e shomaa chand saaleh ast?",
+        "breakdown": {
+          "kha": "like 'kha', throaty",
+          "har": "like 'har'",
+          "e": "like 'eh'",
+          "sho": "like 'sho'",
+          "maa": "like 'maa', long 'a'",
+          "chand": "like 'chand'",
+          "saa": "like 'saa', long 'a'",
+          "leh": "like 'leh'",
+          "ast": "like 'ast'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 38",
+    "lesson_name": "Clothing",
+    "words": [
+      {
+        "english": "Clothing",
+        "persian": "پوشاک",
+        "audio": "Clothing.mp3",
+        "pronunciation": "pooshaak",
+        "breakdown": {
+          "poo": "like 'poo', long 'o'",
+          "shaak": "like 'shaak', long 'aa'"
+        }
+      },
+      {
+        "english": "Blouse",
+        "persian": "بلوز",
+        "audio": "Blouse.mp3",
+        "pronunciation": "balooz",
+        "breakdown": {
+          "ba": "like 'ba'",
+          "looz": "like 'looz', long 'oo'"
+        }
+      },
+      {
+        "english": "Dress",
+        "persian": "پیراهن",
+        "audio": "Dress.mp3",
+        "pronunciation": "piraahan",
+        "breakdown": {
+          "pi": "like 'pee'",
+          "raa": "like 'raa', long 'aa'",
+          "han": "like 'han'"
+        }
+      },
+      {
+        "english": "Shorts",
+        "persian": "شورت",
+        "audio": "Shorts.mp3",
+        "pronunciation": "shoort",
+        "breakdown": {
+          "shoor": "like 'shoor', long 'oo'",
+          "t": "like 't'"
+        }
+      },
+      {
+        "english": "Pants",
+        "persian": "شلوار",
+        "audio": "Pants.mp3",
+        "pronunciation": "shalvaar",
+        "breakdown": {
+          "shal": "like 'shal'",
+          "vaar": "like 'vaar', long 'aa'"
+        }
+      },
+      {
+        "english": "Skirt",
+        "persian": "دامن",
+        "audio": "Skirt.mp3",
+        "pronunciation": "daamen",
+        "breakdown": {
+          "daa": "like 'daa', long 'aa'",
+          "men": "like 'men'"
+        }
+      },
+      {
+        "english": "Shirt",
+        "persian": "پیراهن",
+        "audio": "Shirt.mp3",
+        "pronunciation": "piraahan",
+        "breakdown": {
+          "pi": "like 'pee'",
+          "raa": "like 'raa', long 'aa'",
+          "han": "like 'han'"
+        }
+      },
+      {
+        "english": "T-shirt",
+        "persian": "تی شرت",
+        "audio": "Tshirt.mp3",
+        "pronunciation": "tee-shert",
+        "breakdown": {
+          "tee": "like 'tee', long 'ee'",
+          "shert": "like 'shert'"
+        }
+      },
+      {
+        "english": "Purse",
+        "persian": "کیسه",
+        "audio": "Purse.mp3",
+        "pronunciation": "kiseh",
+        "breakdown": {
+          "ki": "like 'kee'",
+          "seh": "like 'seh'"
+        }
+      },
+      {
+        "english": "Overalls",
+        "persian": "لباس رویی",
+        "audio": "Overalls.mp3",
+        "pronunciation": "lebaas-e rooyi",
+        "breakdown": {
+          "le": "like 'le'",
+          "baas": "like 'baas', long 'aa'",
+          "e": "like 'eh'",
+          "roo": "like 'roo', long 'oo'",
+          "yi": "like 'yee'"
+        }
+      },
+      {
+        "english": "Jeans",
+        "persian": "شلوار جین",
+        "audio": "Jeans.mp3",
+        "pronunciation": "shalvaar-e jeen",
+        "breakdown": {
+          "shal": "like 'shal'",
+          "vaar": "like 'vaar', long 'aa'",
+          "e": "like 'eh'",
+          "jeen": "like 'jeen', long 'ee'"
+        }
+      },
+      {
+        "english": "Suit",
+        "persian": "کت و شلوار",
+        "audio": "Suit.mp3",
+        "pronunciation": "kot o shalvaar",
+        "breakdown": {
+          "kot": "like 'kot'",
+          "o": "like 'o'",
+          "shal": "like 'shal'",
+          "vaar": "like 'vaar', long 'aa'"
+        }
+      },
+      {
+        "english": "Leggings",
+        "persian": "ساق",
+        "audio": "Leggings.mp3",
+        "pronunciation": "saagh",
+        "breakdown": {
+          "saagh": "like 'saagh', long 'aa', throaty 'gh'"
+        }
+      },
+      {
+        "english": "Belt",
+        "persian": "کمربند",
+        "audio": "Belt.mp3",
+        "pronunciation": "kamarband",
+        "breakdown": {
+          "ka": "like 'ka'",
+          "mar": "like 'mar'",
+          "band": "like 'band'"
+        }
+      },
+      {
+        "english": "Tie",
+        "persian": "کروات",
+        "audio": "Tie.mp3",
+        "pronunciation": "keravat",
+        "breakdown": {
+          "ke": "like 'ke'",
+          "ra": "like 'ra', long 'a'",
+          "vat": "like 'vat'"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_number": "Lesson 39",
+    "lesson_name": "Outerwear",
+    "words": [
+      {
+        "english": "Coat",
+        "persian": "کت",
+        "audio": "Coat.mp3",
+        "pronunciation": "kot",
+        "breakdown": {
+          "kot": "like 'kot'"
+        }
+      },
+      {
+        "english": "Jacket",
+        "persian": "کت",
+        "audio": "Jacket.mp3",
+        "pronunciation": "kot",
+        "breakdown": {
+          "kot": "like 'kot'"
+        }
+      },
+      {
+        "english": "Raincoat",
+        "persian": "پالتو بارانی",
+        "audio": "Raincoat.mp3",
+        "pronunciation": "paalto-ye baaraani",
+        "breakdown": {
+          "paal": "like 'paal', long 'aa'",
+          "to": "like 'to'",
+          "ye": "like 'yeh'",
+          "baa": "like 'baa', long 'aa'",
+          "raa": "like 'raa', long 'aa'",
+          "ni": "like 'nee'"
+        }
+      },
+      {
+        "english": "Headscarf",
+        "persian": "روسری",
+        "audio": "Headscarf.mp3",
+        "pronunciation": "roosari",
+        "breakdown": {
+          "roo": "like 'roo', long 'oo'",
+          "sa": "like 'sa'",
+          "ri": "like 'ree'"
+        }
+      },
+      {
+        "english": "Sweater",
+        "persian": "سویشرت",
+        "audio": "Sweater.mp3",
+        "pronunciation": "sweeshert",
+        "breakdown": {
+          "swee": "like 'swee'",
+          "shert": "like 'shert'"
+        }
+      },
+      {
+        "english": "Scarf",
+        "persian": "روسری",
+        "audio": "Scarf.mp3",
+        "pronunciation": "roosari",
+        "breakdown": {
+          "roo": "like 'roo', long 'oo'",
+          "sa": "like 'sa'",
+          "ri": "like 'ree'"
+        }
+      },
+      {
+        "english": "Gloves",
+        "persian": "دستکش",
+        "audio": "Gloves.mp3",
+        "pronunciation": "dastkesh",
+        "breakdown": {
+          "dast": "like 'dast'",
+          "kesh": "like 'kesh'"
+        }
+      },
+      {
+        "english": "Cap",
+        "persian": "کلاه لبه دار",
+        "audio": "Cap.mp3",
+        "pronunciation": "kolaah-e labedaar",
+        "breakdown": {
+          "ko": "like 'ko'",
+          "laah": "like 'laah', long 'aa'",
+          "e": "like 'eh'",
+          "labe": "like 'labe'",
+          "daar": "like 'daar', long 'aa'"
+        }
+      },
+      {
+        "english": "Hat",
+        "persian": "کلاه",
+        "audio": "Hat.mp3",
+        "pronunciation": "kolaah",
+        "breakdown": {
+          "ko": "like 'ko'",
+          "laah": "like 'laah', long 'aa'"
+        }
+      },
+      {
+        "english": "Boots",
+        "persian": "بوت",
+        "audio": "Boots.mp3",
+        "pronunciation": "boot",
+        "breakdown": {
+          "boot": "like 'boot', long 'oo'"
+        }
+      },
+      {
+        "english": "Shoes",
+        "persian": "کفش",
+        "audio": "Shoes.mp3",
+        "pronunciation": "kafsh",
+        "breakdown": {
+          "kafsh": "like 'kafsh'"
+        }
+      },
+      {
+        "english": "Sandals",
+        "persian": "صندل",
+        "audio": "Sandals.mp3",
+        "pronunciation": "sandal",
+        "breakdown": {
+          "san": "like 'san'",
+          "dal": "like 'dal'"
+        }
+      },
+      {
+        "english": "Umbrella",
+        "persian": "چتر",
+        "audio": "Umbrella.mp3",
+        "pronunciation": "chatr",
+        "breakdown": {
+          "cha": "like 'cha'",
+          "tr": "like 'tr'"
+        }
+      }
+    ]
+  }
+]
